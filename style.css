@@ -126,7 +126,7 @@ header {
    top: 0;
    background-color: var(--background-color); /* Use your theme's background color */
    z-index: 10; /* Ensures the header is above other content */
-   padding: 10px;
+   padding-top: 10px;
    /* box-shadow: 0 2px 5px rgba(0,0,0,0.2); */
    transition: top 0.3s; /* Smooth transition for appearing and disappearing */
 }
