@@ -1,0 +1,147 @@
+:root {
+   /* Light theme colors */
+   --background-color: #ffffff;
+   --text-color: #333;
+   --link-color: #555;
+   --container-bg-color: #ffffff;
+   --border-color: #ffffff;
+   --description-text-color: #555;
+   --tag-bg-color: #eee;
+}
+
+[data-theme="dark"] {
+   /* Dark theme colors */
+   --background-color: #252525;
+   --text-color: #ffffff;
+   --link-color: #eee;
+   --container-bg-color: #252525;
+   --border-color: #ccc;
+   --description-text-color: #ccc;
+   --tag-bg-color: #555;
+}
+
+body {
+   font-family: Arial, sans-serif;
+   margin: 30px;
+   background-color: var(--background-color);
+   color: var(--text-color);
+}
+
+.container {
+   /* max-width: 99%; */
+   margin: auto;
+   background: var(--container-bg-color);
+   /* padding: 20px; */
+   /* border-radius: 8px; */
+   /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+}
+
+.link {
+   /* border-bottom: 1px solid var(--border-color); */
+   padding-top: 20px;
+   /* padding-bottom: 20px; */
+   transition: background-color 0.3s;
+}
+
+.link:last-child {
+   border-bottom: none;
+}
+
+.title .title-link {
+   text-decoration: none; /* Removes the underline from the link */
+   color: inherit; /* Ensures the link has the same color as the parent element */
+   display: inline-block; /* Allows block-level behaviors like margin and padding */
+}
+
+.title .title-link:hover {
+   text-decoration: none; /* Ensures no underline effect on hover */
+}
+.url {
+   color: var(--link-color);
+   text-decoration: none;
+   font-size: 16px;
+}
+
+.url:hover {
+   text-decoration: underline;
+}
+
+.description {
+   font-size: 14px;
+   color: var(--description-text-color);
+   margin-top: 5px;
+}
+
+.tag {
+   display: inline-block;
+   background-color: var(--tag-bg-color);
+   padding: 3px 10px;
+   border-radius: 15px;
+   font-size: 12px;
+   margin-top: 10px;
+   margin-right: 5px;
+}
+
+#toggleDarkMode {
+   position: fixed;
+   top: 10px;
+   right: 10px;
+   padding: 5px 10px;
+   font-size: 13px;
+   color: var(--text-color);
+   background-color: var(--container-bg-color);
+   border: 2px solid var(--background-color);
+   border-radius: 20px;
+   cursor: pointer;
+   transition: background-color 0.3s, color 0.3s;
+}
+
+#toggleDarkMode:hover {
+   background-color: var(--link-color);
+   color: var(--container-bg-color);
+}
+
+h2 {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+
+/* Adjust font sizes */
+body, .description, .tag, #toggleDarkMode {
+   font-size: 12px; /* Example: Adjusted from whatever they were to 12px */
+}
+
+.title .title-link, .url {
+   font-size: 14px; /* Adjusted title and URL sizes */
+}
+
+/* Header and title styles */
+header {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   position: fixed;
+   width: 100%;
+   top: 0;
+   background-color: var(--background-color); /* Use your theme's background color */
+   z-index: 10; /* Ensures the header is above other content */
+   padding-top: 10px;
+   /* box-shadow: 0 2px 5px rgba(0,0,0,0.2); */
+   transition: top 0.3s; /* Smooth transition for appearing and disappearing */
+}
+
+#pageTitle {
+   margin: 0;
+   font-size: 18px; /* Adjusted for visibility */
+}
+
+/* Initially, the header is visible */
+header.visible {
+   top: 0;
+}
+
+/* When the user scrolls down, the header disappears */
+header.hidden {
+   top: -100%; /* Adjust percentage based on the actual size of your header */
+}
