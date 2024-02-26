@@ -48,15 +48,19 @@ function createLinkHTML(link) {
     const url = sanitize(link.getElementsByTagName("url")[0].textContent);
     const title = sanitize(link.getElementsByTagName("title")[0].textContent);
     const description = link.getElementsByTagName("description")[0] ? sanitize(link.getElementsByTagName("description")[0].textContent) : '';
-    const tags = link.getElementsByTagName("tag")[0].textContent.split(',').map(tag => `<span class="tag">${sanitize(tag.trim())}</span>`).join(' ');
+
+    // Iterate over all <tag> elements and create a span for each
+    const tags = link.getElementsByTagName("tag");
+    const tagsHTML = Array.from(tags).map(tagElement => `<span class="tag">${sanitize(tagElement.textContent.trim())}</span>`).join(' ');
 
     return `
         <div class="link">
             <h2 class="title"><a href="${url}" class="title-link" target="_blank" rel="noopener noreferrer">${title}</a></h2>
             ${description ? `<p class="description">${description}</p>` : ''}
-            <div class="tags">${tags}</div>
+            <div class="tags">${tagsHTML}</div>
         </div>`;
 }
+
 
 function sanitize(str) {
     return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
