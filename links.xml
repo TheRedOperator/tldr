@@ -436,4 +436,12 @@
     <description>Detailed information and remediation guidance for vulnerabilities.</description>
     <tag> Learn</tag>
   </link>
+  <link>
+    <id>59</id>
+    <url>https://attackshipsonfi.re/p/exploiting-csp-wildcards-for-google</url>
+    <title>Exploiting CSP Wildcards for Google Domains</title>
+    <description>TL;DR The Google developer documentation includes CSP examples which use domain wildcards (which have been widely cut &amp; pasted), and additionally there are numerous endpoints within the Google eTLDs which are vulnerable to Javascript XSS. These can be combined into an effective attack against any domain with an HTML injection vector that would be otherwise unexploitable.</description>
+    <tag> Web</tag>
+    <tag>Tips &amp; Tricks</tag>
+  </link>
 </links>
