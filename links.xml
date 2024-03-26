@@ -660,7 +660,6 @@
     <id>87</id>
     <url>https://zolder.io/aitm-attacks-using-cloudflare-workers/</url>
     <title>Building an AITM attack tool in Cloudflare Workers (174 LOC) – Zolder B.V.</title>
-    <description>In January we launched new functionality for Attic to detect AiTM attacks targeting the Microsoft 365 tenant of customers. Using the platform of didsomeoneclone.me and custom CSS in the Microsoft login page. Since then we are monitoring new detections and obviously, as security researchers, we deepdive into any detection that involves previously unseen TTPs. Our…</description>
     <tag>Redteam</tag>
     <tag>Tips &amp; Tricks</tag>
   </link>
@@ -1031,5 +1030,13 @@
     <description>In this blogpost, we look at what Amazon Machine Images are and how it is possible to backdoor AMIs to allow access to a victim’s AWS account. This post highlights the risks associated with using…</description>
     <tag>Cloud</tag>
     <tag>Redteam</tag>
+  </link>
+  <link>
+    <id>137</id>
+    <url>https://pwning.tech/nftables/</url>
+    <title>Flipping Pages: An analysis of a new Linux vulnerability in nf_tables and hardened exploitation techniques</title>
+    <description>A tale about exploiting KernelCTF Mitigation, Debian, and Ubuntu instances with a double-free in nf_tables in the Linux kernel, using novel techniques like Dirty Pagedirectory. All without even having to recompile the exploit for different kernel targets once.</description>
+    <tag>Exploit</tag>
+    <tag>Learn</tag>
   </link>
 </links>
