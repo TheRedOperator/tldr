@@ -1289,4 +1289,12 @@
     <tag>Redteam</tag>
     <tag>Machine Learning</tag>
   </link>
+  <link>
+    <id>171</id>
+    <url>https://blog.verygoodsoftwarenotvirus.ru/posts/testing-in-go/</url>
+    <title>How I write tests in Go :: Very Good Software, Not Virus</title>
+    <description>How I write unit tests in Go One of my favorite features of Go is that unlike many popular languages, it comes with it’s own testing framework, the testing package. Let’s say we have this trivial function in a file called numbers.go: package numbers func addNumbers(numbers ...int) int { sum := 0 for _, number := range numbers { sum += number } return sum ...</description>
+    <tag>GoLang</tag>
+    <tag>Learn</tag>
+  </link>
 </links>
