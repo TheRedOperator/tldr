@@ -2082,4 +2082,12 @@
     <tag>GitHub</tag>
     <tag>Learn</tag>
   </link>
+  <link>
+    <id>267</id>
+    <url>https://www.assetnote.io/resources/research/two-bytes-is-plenty-fortigate-rce-with-cve-2024-21762</url>
+    <title>Two Bytes is Plenty: FortiGate RCE with CVE-2024-21762</title>
+    <description>Early this February, Fortinet released an advisory for an &#34;out-of-bounds write vulnerability&#34; that could lead to remote code execution. The issue affected the SSL VPN component of their FortiGate network appliance and was potentially already being exploited in the wild. In this post we detail the steps we took to identify the patched vulnerability and produce a working exploit.</description>
+    <tag>Exploit</tag>
+    <tag>Learn</tag>
+  </link>
 </links>
