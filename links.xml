@@ -1031,7 +1031,7 @@
   <link>
     <id>137</id>
     <url>https://blog.appsecco.com/backdooring-amis-for-fun-and-profit-e5a02f256983</url>
-    <title>Backdooring AMIs for Fun and Profit | by Ratnakar Singh | Mar, 2024 | Appsecco</title>
+    <title>Backdooring AMIs for Fun and Profit | by Ratnakar Singh | Appsecco</title>
     <description>In this blogpost, we look at what Amazon Machine Images are and how it is possible to backdoor AMIs to allow access to a victim’s AWS account. This post highlights the risks associated with using…</description>
     <tag>Cloud</tag>
     <tag>Redteam</tag>
@@ -1086,7 +1086,7 @@
   <link>
     <id>144</id>
     <url>https://medium.com/@its_a_feature_/agent-customization-in-mythic-tailoring-tools-for-red-team-needs-1746fd02177f</url>
-    <title>Agent Customization in Mythic: Tailoring Tools for Red Team Needs | by Cody Thomas | Mar, 2024 | Medium</title>
+    <title>Agent Customization in Mythic: Tailoring Tools for Red Team Needs | by Cody Thomas | Medium</title>
     <description>In offensive security, we often use tools in a wide range of situations and environments. Because of this, we need to customize tooling to work properly in a very specific scenario and often in a way…</description>
     <tag>macOS</tag>
     <tag>Redteam</tag>
@@ -2160,7 +2160,7 @@
   <link>
     <id>276</id>
     <url>https://ai.google.dev/edge/model-explorer</url>
-    <title>Model Explorer  |  Edge  |  Google for Developers</title>
+    <title>Model Explorer  |  Google AI Edge  |  Google for Developers</title>
     <tag>Machine Learning</tag>
     <tag>Learn</tag>
   </link>
@@ -2212,6 +2212,108 @@
     <title>Port Scanning for Bug Bounties - Ott3rly</title>
     <description>Dive into port scanning strategies with nmap, advanced port scanning tactics to make you stand out from the crowd.</description>
     <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>283</id>
+    <url>https://www.youtube.com/watch?v=u0VotuGzD_w</url>
+    <title>Implementing (parts of) git from scratch in Rust - YouTube</title>
+    <description>In this stream, we implement core pieces of git from scratch by following the CodeCrafters git &#34;course&#34; @ https://app.codecrafters.io/join?via=jonhoo, just l...</description>
+    <tag>GitHub</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>284</id>
+    <url>https://github.com/TupleType-1/awesome-cicd-attacks</url>
+    <title>GitHub - TupleType/awesome-cicd-attacks: Practical resources for offensive CI/CD security research.</title>
+    <description>Practical resources for offensive CI/CD security research. - TupleType/awesome-cicd-attacks</description>
+    <tag>GitHub</tag>
+    <tag>Pentest</tag>
+    <tag>Redteam</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>285</id>
+    <url>https://securitylabs.datadoghq.com/articles/non-production-endpoints-as-an-attack-surface-in-aws/</url>
+    <title>Non-Production Endpoints as an Attack Surface in AWS | Datadog Security Labs</title>
+    <description>Public disclose of CloudTrail bypass vulnerabilities we&#39;ve found in AWS along with our research on using non-production API endpoints for defense evasion.</description>
+    <tag>Cloud</tag>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>286</id>
+    <url>https://scale.com/leaderboard</url>
+    <title>SEAL leaderboards</title>
+    <description>model-eval-public by Scale</description>
+    <tag>Machine Learning</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>287</id>
+    <url>https://github.com/GJDuck/RRFuzz</url>
+    <title>GitHub - GJDuck/RRFuzz: Fuzz anything with Program Environment Fuzzing</title>
+    <description>Fuzz anything with Program Environment Fuzzing. Contribute to GJDuck/RRFuzz development by creating an account on GitHub.</description>
+    <tag>Exploit</tag>
+    <tag>Redteam</tag>
+    <tag>Tips &amp; Tricks</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>288</id>
+    <url>https://pentestbook.six2dez.com/others/web-checklist</url>
+    <title>Pentesting Web checklist | Pentest Book</title>
+    <tag>Pentest</tag>
+    <tag>Web</tag>
+    <tag>Checklists</tag>
+  </link>
+  <link>
+    <id>289</id>
+    <url>https://www.cybereason.com/blog/container-escape-all-you-need-is-cap-capabilities</url>
+    <title>Container Escape: All You Need is Cap (Capabilities)</title>
+    <description>Container Escape is considered the &#39;Holy Grail&#39; of the container attack world - it allows an attacker to escape from a container to the underlying host, and by doing so the attacker can move laterally to other containers from the host or perform actions on the host itself...</description>
+    <tag>K8s</tag>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>290</id>
+    <url>https://0xn3va.gitbook.io/cheat-sheets/container/escaping/excessive-capabilities</url>
+    <title>Excessive Capabilities | Application Security Cheat Sheet</title>
+    <tag>K8s</tag>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>291</id>
+    <url>https://hackmd.io/@wLsZPVWhS4OiI_7FBP64Kw/rJ2DKg4cd</url>
+    <title>Kubernetes - HackMD</title>
+    <description># Kubernetes 1. [Do&#39;s and Don&#39;ts](#checklist) 2. [Choosing a Version](#secure-version)</description>
+    <tag>K8s</tag>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>292</id>
+    <url>https://kubehound.io/</url>
+    <title>Home - KubeHound</title>
+    <tag>K8s</tag>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>293</id>
+    <url>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/abusing-roles-clusterroles-in-kubernetes</url>
+    <title>Abusing Roles/ClusterRoles in Kubernetes | HackTricks Cloud | HackTricks Cloud</title>
+    <tag>K8s</tag>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>294</id>
+    <url>https://labs.watchtowr.com/check-point-wrong-check-point-cve-2024-24919/</url>
+    <title>Check Point - Wrong Check Point (CVE-2024-24919)</title>
+    <tag>Exploit</tag>
     <tag>Learn</tag>
   </link>
 </links>
