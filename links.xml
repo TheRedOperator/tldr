@@ -2,13 +2,6 @@
 <links>
   <link>
     <id>0</id>
-    <url>https://stratus-red-team.cloud</url>
-    <title>Home - Stratus Red Team</title>
-    <tag>Redteam</tag>
-    <tag>Cloud</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://docs.fluidattacks.com/criteria/vulnerabilities/</url>
     <title>Application security testing solutions | Fluid Attacks</title>
     <description>Our application security testing combines automation and penetration testing to find all vulnerabilities so you can deploy secure software, achieve DevSecOps and reduce cyber risks.</description>
@@ -18,18 +11,18 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://adnanthekhan.com/2023/12/20/one-supply-chain-attack-to-rule-them-all/</url>
-    <title>One Supply Chain Attack to Rule Them All – Poisoning GitHub’s Runner Images – Adnan Khan</title>
-    <description>I successfully exploited a critical misconfiguration vulnerability in GitHub&#39;s actions/runner images repository. I gained control over build agents used by the repository, accessed secrets, and showed how an attacker could insert malicious code into the runner base images and carry out an attack which could have affected all GitHub customers using hosted runners. Following the…</description>
-    <tag>K8s</tag>
-    <tag>Pentest</tag>
+    <url>https://stratus-red-team.cloud</url>
+    <title>Home - Stratus Red Team</title>
+    <tag>Redteam</tag>
+    <tag>Cloud</tag>
   </link>
   <link>
     <id>0</id>
-    <url>https://swisskyrepo.github.io/PayloadsAllTheThings/</url>
-    <title>Payloads All The Things</title>
-    <description>Payloads All The Things, a list of useful payloads and bypasses for Web Application Security</description>
+    <url>https://alike-lantern-72d.notion.site/Advance-Web-Application-Penetration-Checklist-6e941fa2c305431192889a2ea4f3bf91</url>
+    <title>Your connected workspace for wiki, docs &amp; projects | Notion</title>
+    <description>A new tool that blends your everyday work apps into one. It&#39;s the all-in-one workspace for you and your team</description>
     <tag>Checklists</tag>
+    <tag>Web</tag>
     <tag>Pentest</tag>
   </link>
   <link>
@@ -49,20 +42,25 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://medium.com/berops-blog/a-different-method-to-debug-kubernetes-pods-%EF%B8%8F-5b8556efba4f</url>
-    <title>A different method to debug Kubernetes Pods ☸️ | by Cloudziu | Berops Blog | Medium</title>
-    <description>Debugging running applications can be a challenging task, especially when they have limited capabilities and there’s lack of basic debugging tools.</description>
+    <url>https://adnanthekhan.com/2023/12/20/one-supply-chain-attack-to-rule-them-all/</url>
+    <title>One Supply Chain Attack to Rule Them All – Poisoning GitHub’s Runner Images – Adnan Khan</title>
+    <description>I successfully exploited a critical misconfiguration vulnerability in GitHub&#39;s actions/runner images repository. I gained control over build agents used by the repository, accessed secrets, and showed how an attacker could insert malicious code into the runner base images and carry out an attack which could have affected all GitHub customers using hosted runners. Following the…</description>
     <tag>K8s</tag>
     <tag>Pentest</tag>
-    <tag>Tips &amp; Tricks</tag>
   </link>
   <link>
     <id>0</id>
-    <url>https://alike-lantern-72d.notion.site/Advance-Web-Application-Penetration-Checklist-6e941fa2c305431192889a2ea4f3bf91</url>
-    <title>Your connected workspace for wiki, docs &amp; projects | Notion</title>
-    <description>A new tool that blends your everyday work apps into one. It&#39;s the all-in-one workspace for you and your team</description>
+    <url>https://swisskyrepo.github.io/PayloadsAllTheThings/</url>
+    <title>Payloads All The Things</title>
+    <description>Payloads All The Things, a list of useful payloads and bypasses for Web Application Security</description>
     <tag>Checklists</tag>
-    <tag>Web</tag>
+    <tag>Pentest</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://www.praetorian.com/blog/self-hosted-github-runners-are-backdoors/</url>
+    <title>From Self-Hosted GitHub Runner to Self-Hosted Backdoor | Praetorian</title>
+    <tag>GitHub</tag>
     <tag>Pentest</tag>
   </link>
   <link>
@@ -87,6 +85,15 @@
     <description>Learn the difference between API endpoints vs routes and how to think about it as an API hacker during your security testing.</description>
     <tag>API</tag>
     <tag>Pentest</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://medium.com/berops-blog/a-different-method-to-debug-kubernetes-pods-%EF%B8%8F-5b8556efba4f</url>
+    <title>A different method to debug Kubernetes Pods ☸️ | by Cloudziu | Berops Blog | Medium</title>
+    <description>Debugging running applications can be a challenging task, especially when they have limited capabilities and there’s lack of basic debugging tools.</description>
+    <tag>K8s</tag>
+    <tag>Pentest</tag>
+    <tag>Tips &amp; Tricks</tag>
   </link>
   <link>
     <id>0</id>
@@ -194,6 +201,14 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://jfrog.com/blog/data-scientists-targeted-by-malicious-hugging-face-ml-models-with-silent-backdoor/</url>
+    <title>Examining Malicious Hugging Face ML Models with Silent Backdoor</title>
+    <description>Is Hugging Face the target of model-based attacks? See a detailed explanation of the attack mechanism and what is required to identify real threats &gt;</description>
+    <tag>Machine Learning</tag>
+    <tag>Redteam</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://github.com/tempelmann/SSDP-Browser</url>
     <title>GitHub - tempelmann/SSDP-Browser: A SSDP (UPnP) Browser for macOS 10.11 and later</title>
     <description>A SSDP (UPnP) Browser for macOS 10.11 and later. Contribute to tempelmann/SSDP-Browser development by creating an account on GitHub.</description>
@@ -201,11 +216,11 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://jfrog.com/blog/data-scientists-targeted-by-malicious-hugging-face-ml-models-with-silent-backdoor/</url>
-    <title>Examining Malicious Hugging Face ML Models with Silent Backdoor</title>
-    <description>Is Hugging Face the target of model-based attacks? See a detailed explanation of the attack mechanism and what is required to identify real threats &gt;</description>
-    <tag>Machine Learning</tag>
-    <tag>Redteam</tag>
+    <url>https://gowthams.gitbook.io/bughunter-handbook/</url>
+    <title>Introduction | Bug Hunter Handbook</title>
+    <tag>Web</tag>
+    <tag>Pentest</tag>
+    <tag>Wiki</tag>
   </link>
   <link>
     <id>0</id>
@@ -230,26 +245,18 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://owasp.org/www-community/attacks/</url>
-    <title>Attacks | OWASP Foundation</title>
-    <description>Attacks on the main website for The OWASP Foundation. OWASP is a nonprofit foundation that works to improve the security of software.</description>
+    <url>https://www.invicti.com/learn/vulnerabilities/</url>
+    <title>Web Vulnerabilities</title>
+    <description>Learn all about web vulnerabilities – a specific type of programming or configuration error that makes it possible for malicious hackers to access resources that should be inaccessible.</description>
     <tag>Web</tag>
     <tag>Learn</tag>
     <tag>Pentest</tag>
   </link>
   <link>
     <id>0</id>
-    <url>https://gowthams.gitbook.io/bughunter-handbook/</url>
-    <title>Introduction | Bug Hunter Handbook</title>
-    <tag>Web</tag>
-    <tag>Pentest</tag>
-    <tag>Wiki</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://www.invicti.com/learn/vulnerabilities/</url>
-    <title>Web Vulnerabilities</title>
-    <description>Learn all about web vulnerabilities – a specific type of programming or configuration error that makes it possible for malicious hackers to access resources that should be inaccessible.</description>
+    <url>https://owasp.org/www-community/attacks/</url>
+    <title>Attacks | OWASP Foundation</title>
+    <description>Attacks on the main website for The OWASP Foundation. OWASP is a nonprofit foundation that works to improve the security of software.</description>
     <tag>Web</tag>
     <tag>Learn</tag>
     <tag>Pentest</tag>
@@ -292,16 +299,23 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://www.landh.tech/blog/20240304-google-hack-50000/</url>
+    <title>We Hacked Google A.I. for $50,000 - Lupin &amp; Holmes</title>
+    <tag>Machine Learning</tag>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://binarly.io/posts/Unexploitables</url>
     <title>Not Found</title>
     <tag>Exploit</tag>
   </link>
   <link>
     <id>0</id>
-    <url>https://www.landh.tech/blog/20240304-google-hack-50000/</url>
-    <title>We Hacked Google A.I. for $50,000 - Lupin &amp; Holmes</title>
-    <tag>Machine Learning</tag>
-    <tag>Pentest</tag>
+    <url>https://medium.com/snowflake/macos-ci-cd-with-tart-d3c0e511f3c9</url>
+    <title>MacOS CI/CD with Tart. How Snowflake’s Red Team uses Tart and… | by Justin Bui | Snowflake Builders Blog: Data Engineers, App Developers, AI/ML, &amp; Data Science | Medium</title>
+    <description>On the Snowflake Red Team, we build various tools to manage our attack infrastructure, create payloads, and assist with various phases of the engagement lifecycle. All of our tools live within a…</description>
     <tag>Learn</tag>
   </link>
   <link>
@@ -314,17 +328,16 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://medium.com/snowflake/macos-ci-cd-with-tart-d3c0e511f3c9</url>
-    <title>MacOS CI/CD with Tart. How Snowflake’s Red Team uses Tart and… | by Justin Bui | Snowflake Builders Blog: Data Engineers, App Developers, AI/ML, &amp; Data Science | Medium</title>
-    <description>On the Snowflake Red Team, we build various tools to manage our attack infrastructure, create payloads, and assist with various phases of the engagement lifecycle. All of our tools live within a…</description>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://smarticu5.github.io//talks/Securitay-Container-Security-Workshop/</url>
     <title>https://smarticu5.github.io/talks/2024-03-01-securitay-container-security-workshop/</title>
     <tag>Learn</tag>
     <tag>K8s</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://ostif.org/dataformatsdatatypes-audit-complete/</url>
+    <title>Audit of Jackson-Dataformats and Jackson-Datatypes Complete – OSTIF.org</title>
+    <tag>Pentest</tag>
   </link>
   <link>
     <id>0</id>
@@ -336,30 +349,10 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://ostif.org/dataformatsdatatypes-audit-complete/</url>
-    <title>Audit of Jackson-Dataformats and Jackson-Datatypes Complete – OSTIF.org</title>
-    <tag>Pentest</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://hamel.dev/blog/posts/prompt/</url>
     <title>Fuck You, Show Me The Prompt. – Hamel&#39;s Blog</title>
     <description>Quickly understand inscrutable LLM frameworks by intercepting API calls.</description>
     <tag>Machine Learning</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://www.hackerone.com/penetration-testing/modern-pentesting-speed</url>
-    <title>Decoding the Characteristics of Modern Pentesting: Speed | HackerOne</title>
-    <description>HackerOne pentest experts explore the &#34;Speed&#34; factor of effective pentesting methods to see how each security testing alternative measures up.</description>
-    <tag>Misc</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://pentestlab.blog/2024/03/04/persistence-visual-studio-code-extensions/</url>
-    <title>Persistence – Visual Studio Code Extensions – Penetration Testing Lab</title>
-    <description>It is not uncommon developers or users responsible to write code (i.e. detection engineers using Sigma) to utilize Visual Studio Code as their code editor. The default capability of the product can be extended using extensions such as debuggers and tools to support the development workflow. However, in a development environment that has been compromised…</description>
-    <tag>Redteam</tag>
   </link>
   <link>
     <id>0</id>
@@ -371,9 +364,23 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://pentestlab.blog/2024/03/04/persistence-visual-studio-code-extensions/</url>
+    <title>Persistence – Visual Studio Code Extensions – Penetration Testing Lab</title>
+    <description>It is not uncommon developers or users responsible to write code (i.e. detection engineers using Sigma) to utilize Visual Studio Code as their code editor. The default capability of the product can be extended using extensions such as debuggers and tools to support the development workflow. However, in a development environment that has been compromised…</description>
+    <tag>Redteam</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://evalplus.github.io/leaderboard.html</url>
     <title>EvalPlus Leaderboard</title>
     <tag>Machine Learning</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://www.hackerone.com/penetration-testing/modern-pentesting-speed</url>
+    <title>Decoding the Characteristics of Modern Pentesting: Speed | HackerOne</title>
+    <description>HackerOne pentest experts explore the &#34;Speed&#34; factor of effective pentesting methods to see how each security testing alternative measures up.</description>
+    <tag>Misc</tag>
   </link>
   <link>
     <id>0</id>
@@ -408,18 +415,18 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://security.snyk.io/vuln/</url>
-    <title>Vulnerability DB | Snyk</title>
-    <description>Detailed information and remediation guidance for vulnerabilities.</description>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://attackshipsonfi.re/p/exploiting-csp-wildcards-for-google</url>
     <title>Exploiting CSP Wildcards for Google Domains</title>
     <description>TL;DR The Google developer documentation includes CSP examples which use domain wildcards (which have been widely cut &amp; pasted), and additionally there are numerous endpoints within the Google eTLDs which are vulnerable to Javascript XSS.</description>
     <tag>Web</tag>
     <tag>Tips &amp; Tricks</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://security.snyk.io/vuln/</url>
+    <title>Vulnerability DB | Snyk</title>
+    <description>Detailed information and remediation guidance for vulnerabilities.</description>
+    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -431,19 +438,19 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://code.visualstudio.com/remote/advancedcontainers/docker-options</url>
+    <title>Alternate ways to install Docker</title>
+    <description>Dev Containers Docker options</description>
+    <tag>Tips &amp; Tricks</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://github.com/shieldfy/API-Security-Checklist</url>
     <title>GitHub - shieldfy/API-Security-Checklist: Checklist of the most important security countermeasures when designing, testing, and releasing your API</title>
     <description>Checklist of the most important security countermeasures when designing, testing, and releasing your API - shieldfy/API-Security-Checklist</description>
     <tag>Pentest</tag>
     <tag>API</tag>
     <tag>Checklists</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://code.visualstudio.com/remote/advancedcontainers/docker-options</url>
-    <title>Alternate ways to install Docker</title>
-    <description>Dev Containers Docker options</description>
-    <tag>Tips &amp; Tricks</tag>
   </link>
   <link>
     <id>0</id>
@@ -468,16 +475,16 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://securelist.com/network-tunneling-with-qemu/111803/</url>
-    <title>Network tunneling with… QEMU? | Securelist</title>
-    <description>While investigating an incident, we detected uncommon malicious activity inside one of the systems. We ran an analysis on the artifacts, only to find that the adversary had deployed and launched the QEMU hardware emulator.</description>
+    <url>https://github.com/gergelykalman/brew-lpe-via-periodic</url>
+    <title>GitHub - gergelykalman/brew-lpe-via-periodic: Brew Local Privilege Escalation exploit on Intel macOS</title>
+    <description>Brew Local Privilege Escalation exploit on Intel macOS - gergelykalman/brew-lpe-via-periodic</description>
     <tag>Redteam</tag>
   </link>
   <link>
     <id>0</id>
-    <url>https://github.com/gergelykalman/brew-lpe-via-periodic</url>
-    <title>GitHub - gergelykalman/brew-lpe-via-periodic: Brew Local Privilege Escalation exploit on Intel macOS</title>
-    <description>Brew Local Privilege Escalation exploit on Intel macOS - gergelykalman/brew-lpe-via-periodic</description>
+    <url>https://blog.kandji.io/amos-macos-stealer-analysis</url>
+    <title>How AMOS macOS Stealer Avoids Detection</title>
+    <description>Kandji threat analysis reveals how the AMOS macOS stealer constantly changes its hash signatures while maintaining its functionality.</description>
     <tag>Redteam</tag>
   </link>
   <link>
@@ -487,13 +494,6 @@
     <description>A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community. - arainho/awesome-api-security</description>
     <tag>Pentest</tag>
     <tag>Checklists</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://www.youtube.com/watch?v=yt-3ndhMMn8&amp;list=PLbZzXF2qC3RtbIyOKsjYzAN6rIjsKiZCt&amp;index=33</url>
-    <title>- YouTube</title>
-    <description>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</description>
-    <tag>Pentest</tag>
   </link>
   <link>
     <id>0</id>
@@ -532,14 +532,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/red-offensive/web-app-hacking</url>
-    <title>Web App Hacking | s0cm0nkey&#39;s Security Reference Guide</title>
-    <tag>Tips &amp; Tricks</tag>
-    <tag>Pentest</tag>
-    <tag>Redteam</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://github.com/Hardw01f/Vulnerability-goapp</url>
     <title>GitHub - Hardw01f/Vulnerability-goapp: Web application build Golang with Vulnerability</title>
     <description>Web application build Golang with Vulnerability. Contribute to Hardw01f/Vulnerability-goapp development by creating an account on GitHub.</description>
@@ -549,19 +541,34 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/red-offensive/web-app-hacking</url>
+    <title>Web App Hacking | s0cm0nkey&#39;s Security Reference Guide</title>
+    <tag>Tips &amp; Tricks</tag>
+    <tag>Pentest</tag>
+    <tag>Redteam</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://www.youtube.com/watch?v=yt-3ndhMMn8&amp;list=PLbZzXF2qC3RtbIyOKsjYzAN6rIjsKiZCt&amp;index=33</url>
+    <title>- YouTube</title>
+    <description>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</description>
+    <tag>Pentest</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://securelist.com/network-tunneling-with-qemu/111803/</url>
+    <title>Network tunneling with… QEMU? | Securelist</title>
+    <description>While investigating an incident, we detected uncommon malicious activity inside one of the systems. We ran an analysis on the artifacts, only to find that the adversary had deployed and launched the QEMU hardware emulator.</description>
+    <tag>Redteam</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://github.com/digininja/vuLnDAP</url>
     <title>GitHub - digininja/vuLnDAP: A vulnerable LDAP based web app written in Golang</title>
     <description>A vulnerable LDAP based web app written in Golang. Contribute to digininja/vuLnDAP development by creating an account on GitHub.</description>
     <tag>Vulnerable App</tag>
     <tag>GoLang</tag>
     <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://www.praetorian.com/blog/self-hosted-github-runners-are-backdoors/</url>
-    <title>From Self-Hosted GitHub Runner to Self-Hosted Backdoor | Praetorian</title>
-    <tag>GitHub</tag>
-    <tag>Pentest</tag>
   </link>
   <link>
     <id>0</id>
@@ -590,6 +597,13 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://developers.tiktok.com/blog/cloudsquatting-attack-explanation-and-mitigation-system-design?utm_source=cloudseclist.com&amp;utm_medium=referral&amp;utm_campaign=CloudSecList-issue-228</url>
+    <title>Monitoring Your Assets in the Face of Emerging Cloud-Squatting Attacks | TikTok for Developers</title>
+    <description>In this post we talk about mitigating an emerging attack against cloud assets called Cloud-Squatting. We explain the root causes and the mitigating system design in detail.</description>
+    <tag>Cloud</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://github.com/Hari-prasaanth/Web-App-Pentest-Checklist</url>
     <title>GitHub - Hari-prasaanth/Web-App-Pentest-Checklist: A OWASP Based Checklist With 500+ Test Cases</title>
     <description>A OWASP Based Checklist With 500+ Test Cases. Contribute to Hari-prasaanth/Web-App-Pentest-Checklist development by creating an account on GitHub.</description>
@@ -613,23 +627,15 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://not-just-memorization.github.io/partial-model-stealing.html</url>
+    <title>Stealing Part of a Production Language Model</title>
+    <tag>Machine Learning</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://0xf00sec.github.io/2024/03/09/MacOs-X.html</url>
     <title>Site not found · GitHub Pages</title>
     <tag>macOS</tag>
-    <tag>Redteam</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://developers.tiktok.com/blog/cloudsquatting-attack-explanation-and-mitigation-system-design?utm_source=cloudseclist.com&amp;utm_medium=referral&amp;utm_campaign=CloudSecList-issue-228</url>
-    <title>Monitoring Your Assets in the Face of Emerging Cloud-Squatting Attacks | TikTok for Developers</title>
-    <description>In this post we talk about mitigating an emerging attack against cloud assets called Cloud-Squatting. We explain the root causes and the mitigating system design in detail.</description>
-    <tag>Cloud</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://blog.kandji.io/amos-macos-stealer-analysis</url>
-    <title>How AMOS macOS Stealer Avoids Detection</title>
-    <description>Kandji threat analysis reveals how the AMOS macOS stealer constantly changes its hash signatures while maintaining its functionality.</description>
     <tag>Redteam</tag>
   </link>
   <link>
@@ -645,14 +651,6 @@
     <title>[2403.06634] Stealing Part of a Production Language Model</title>
     <description>Abstract page for arXiv paper 2403.06634: Stealing Part of a Production Language Model</description>
     <tag>Machine Learning</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://www.semperis.com/blog/meet-silver-saml/</url>
-    <title>Meet Silver SAML: Golden SAML in the Cloud | Semperis</title>
-    <description>Semperis researchers have discovered Silver SAML: a new application of Golden SAML that can be exploited in Entra ID and without AD FS.</description>
-    <tag>Pentest</tag>
-    <tag>Tips &amp; Tricks</tag>
   </link>
   <link>
     <id>0</id>
@@ -688,9 +686,24 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://www.semperis.com/blog/meet-silver-saml/</url>
+    <title>Meet Silver SAML: Golden SAML in the Cloud | Semperis</title>
+    <description>Semperis researchers have discovered Silver SAML: a new application of Golden SAML that can be exploited in Entra ID and without AD FS.</description>
+    <tag>Pentest</tag>
+    <tag>Tips &amp; Tricks</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://www.atredis.com/blog/2023/12/4/a-libafl-introductory-workshop</url>
     <title>LibAFL Introductory workshop — Atredis Partners</title>
     <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://www.errno.fr/bruteforcing_CVE-2024-23897.html</url>
+    <title>A case of missing bytes: bruteforcing your way through Jenkins&#39; CVE-2024-23897</title>
+    <tag>CI/CD</tag>
+    <tag>Pentest</tag>
   </link>
   <link>
     <id>0</id>
@@ -702,18 +715,10 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://github.com/wiz-sec-public/namespacehound</url>
-    <title>GitHub - wiz-sec-public/namespacehound: NamespaceHound is the tool for detecting the risk of potential namespace crossing violations in multi-tenant clusters.</title>
-    <description>NamespaceHound is the tool for detecting the risk of potential namespace crossing violations in multi-tenant clusters. - wiz-sec-public/namespacehound</description>
-    <tag>K8s</tag>
-    <tag>Pentest</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://www.errno.fr/bruteforcing_CVE-2024-23897.html</url>
-    <title>A case of missing bytes: bruteforcing your way through Jenkins&#39; CVE-2024-23897</title>
-    <tag>CI/CD</tag>
-    <tag>Pentest</tag>
+    <url>https://blog.3or.de/arm-exploitation-setup-and-tools</url>
+    <title>ARM Exploitation - Setup and Tools</title>
+    <tag>Exploit</tag>
+    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -722,13 +727,6 @@
     <description>Place to store my thoughts on all things information-security related. Hopefully you find something of interest. Ramblings are my own. Charlton Smith</description>
     <tag>Web</tag>
     <tag>Pentest</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://blog.3or.de/arm-exploitation-setup-and-tools</url>
-    <title>ARM Exploitation - Setup and Tools</title>
-    <tag>Exploit</tag>
-    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -754,17 +752,11 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://not-just-memorization.github.io/partial-model-stealing.html</url>
-    <title>Stealing Part of a Production Language Model</title>
-    <tag>Machine Learning</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://github.com/nalgeon/git-by-example</url>
-    <title>GitHub - nalgeon/git-by-example: Step-by-step guide to Git operations</title>
-    <description>Step-by-step guide to Git operations. Contribute to nalgeon/git-by-example development by creating an account on GitHub.</description>
-    <tag>GitHub</tag>
-    <tag>Learn</tag>
+    <url>https://github.com/wiz-sec-public/namespacehound</url>
+    <title>GitHub - wiz-sec-public/namespacehound: NamespaceHound is the tool for detecting the risk of potential namespace crossing violations in multi-tenant clusters.</title>
+    <description>NamespaceHound is the tool for detecting the risk of potential namespace crossing violations in multi-tenant clusters. - wiz-sec-public/namespacehound</description>
+    <tag>K8s</tag>
+    <tag>Pentest</tag>
   </link>
   <link>
     <id>0</id>
@@ -776,17 +768,18 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://github.com/nalgeon/git-by-example</url>
+    <title>GitHub - nalgeon/git-by-example: Step-by-step guide to Git operations</title>
+    <description>Step-by-step guide to Git operations. Contribute to nalgeon/git-by-example development by creating an account on GitHub.</description>
+    <tag>GitHub</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://trustedsec.com/blog/failure-to-restrict-url-access-its-still-a-thing</url>
     <title>TrustedSec | Failure to Restrict URL Access: It’s Still a Thing</title>
     <tag>Web</tag>
     <tag>Pentest</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://bughunters.google.com/blog/4925068200771584/the-family-of-safe-golang-libraries-is-growing</url>
-    <title>Blog: The Family of Safe Golang Libraries is Growing!</title>
-    <description>Introducing three new open-source libraries in Go that provide secure and efficient solutions: SafeText, SafeOpen, and SafeArchive.</description>
-    <tag>GoLang</tag>
   </link>
   <link>
     <id>0</id>
@@ -806,17 +799,24 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://blog.trailofbits.com/2024/03/19/read-code-like-a-pro-with-our-weaudit-vscode-extension/</url>
-    <title>Read code like a pro with our weAudit VSCode extension - The Trail of Bits Blog</title>
-    <tag>Pentest</tag>
-    <tag>Tips &amp; Tricks</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://ostif.org/cert-manager-audit-complete/</url>
     <title>cert-manager Audit Complete! – OSTIF.org</title>
     <tag>K8s</tag>
     <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://bughunters.google.com/blog/4925068200771584/the-family-of-safe-golang-libraries-is-growing</url>
+    <title>Blog: The Family of Safe Golang Libraries is Growing!</title>
+    <description>Introducing three new open-source libraries in Go that provide secure and efficient solutions: SafeText, SafeOpen, and SafeArchive.</description>
+    <tag>GoLang</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://blog.trailofbits.com/2024/03/19/read-code-like-a-pro-with-our-weaudit-vscode-extension/</url>
+    <title>Read code like a pro with our weAudit VSCode extension - The Trail of Bits Blog</title>
+    <tag>Pentest</tag>
+    <tag>Tips &amp; Tricks</tag>
   </link>
   <link>
     <id>0</id>
@@ -853,15 +853,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://blog.securelayer7.net/arbitrary-file-read-in-jenkins/</url>
-    <title>CVE-2024-23897: Jenkins Arbitrary File Read Vulnerability</title>
-    <description>CVE-2024-23897 in Jenkins, arbitrary file read vulnerability enabling remote code execution.</description>
-    <tag>CI/CD</tag>
-    <tag>Pentest</tag>
-    <tag>Tips &amp; Tricks</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://blog.doyensec.com/2024/01/30/poiex-release.html</url>
     <title>Introducing PoIEx - Points Of Intersection Explorer · Doyensec&#39;s Blog</title>
     <description>Introducing PoIEx - Points Of Intersection Explorer</description>
@@ -892,19 +883,19 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://blog.theori.io/chaining-n-days-to-compromise-all-part-1-chrome-renderer-rce-1afccf56721b</url>
-    <title>Chaining N-days to Compromise All: Part 1 — Chrome Renderer RCE | by Theori Vulnerability Research | Theori BLOG</title>
-    <description>This post begins our series on the 1-day exploit chain demoed on X, focusing on a Chrome renderer exploit, CVE-2023-3079, a type confusion bug in V8.</description>
-    <tag>Exploit</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://gofetch.fail/</url>
     <title>GoFetch</title>
     <description>A new microarchitectural side-channel attack exploiting data memory-dependent prefetchers in Apple silicons.</description>
     <tag>macOS</tag>
     <tag>Exploit</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://blog.theori.io/chaining-n-days-to-compromise-all-part-1-chrome-renderer-rce-1afccf56721b</url>
+    <title>Chaining N-days to Compromise All: Part 1 — Chrome Renderer RCE | by Theori Vulnerability Research | Theori BLOG</title>
+    <description>This post begins our series on the 1-day exploit chain demoed on X, focusing on a Chrome renderer exploit, CVE-2023-3079, a type confusion bug in V8.</description>
+    <tag>Exploit</tag>
+    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -936,13 +927,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://boostsecurity.io/blog/opening-pandora-box-supply-chain-insider-threats-in-oss-projects</url>
-    <title>Opening Pandora’s box - Supply Chain Insider Threats in Open Source projects</title>
-    <description>Granting &#34;Write&#34; access in an Open Source repo is a high-stakes decision. We discuss risks of insider threats, using a responsible disclosure for the AWS Karpenter project. Strict safeguards are essential, especially for release artifacts. Also GitHub lacks auditing capabilities to spot some IoCs.</description>
-    <tag>Misc</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://github.com/OpenGenerativeAI/llm-colosseum</url>
     <title>GitHub - OpenGenerativeAI/llm-colosseum: Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM</title>
     <description>Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM - OpenGenerativeAI/llm-colosseum</description>
@@ -957,10 +941,39 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://boostsecurity.io/blog/opening-pandora-box-supply-chain-insider-threats-in-oss-projects</url>
+    <title>Opening Pandora’s box - Supply Chain Insider Threats in Open Source projects</title>
+    <description>Granting &#34;Write&#34; access in an Open Source repo is a high-stakes decision. We discuss risks of insider threats, using a responsible disclosure for the AWS Karpenter project. Strict safeguards are essential, especially for release artifacts. Also GitHub lacks auditing capabilities to spot some IoCs.</description>
+    <tag>Misc</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://blog.securelayer7.net/arbitrary-file-read-in-jenkins/</url>
+    <title>CVE-2024-23897: Jenkins Arbitrary File Read Vulnerability</title>
+    <description>CVE-2024-23897 in Jenkins, arbitrary file read vulnerability enabling remote code execution.</description>
+    <tag>CI/CD</tag>
+    <tag>Pentest</tag>
+    <tag>Tips &amp; Tricks</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://karol-mazurek.medium.com/snake-apple-vi-amfi-31c48fb92d33</url>
+    <title>Snake&amp;Apple VI — Apple Mobile File Integrity | Medium</title>
+    <description>Introduction to Apple Mobile File Integrity (AMFI) kernel extension, its daemon amfid, and how MAC policies are enforced to secure against code injection.</description>
+    <tag>macOS</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://jsoncrack.com/</url>
     <title>JSON Crack | Transform your data into interactive graphs</title>
     <description>JSON Crack Editor is a tool for visualizing into graphs, analyzing, editing, formatting, querying, transforming and validating JSON, CSV, YAML, XML, and more.</description>
     <tag>Tips &amp; Tricks</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://cybersecurityasean.com/tags/ai-risks</url>
+    <title>404 Not Found</title>
+    <tag>Machine Learning</tag>
   </link>
   <link>
     <id>0</id>
@@ -972,25 +985,12 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://karol-mazurek.medium.com/snake-apple-vi-amfi-31c48fb92d33</url>
-    <title>Snake&amp;Apple VI — Apple Mobile File Integrity | Medium</title>
-    <description>Introduction to Apple Mobile File Integrity (AMFI) kernel extension, its daemon amfid, and how MAC policies are enforced to secure against code injection.</description>
-    <tag>macOS</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://www.elastic.co/security-labs/unlocking-power-safely-privilege-escalation-via-linux-process-capabilities</url>
     <title>Unlocking Power Safely: Privilege Escalation via Linux Process Capabilities — Elastic Security Labs</title>
     <description>Organizations need to understand how Linux features contribute to their attack surface via privilege escalation and how to effectively monitor intrusion attempts using free and open detection capabilities.</description>
     <tag>Exploit</tag>
     <tag>Learn</tag>
     <tag>Redteam</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://cybersecurityasean.com/tags/ai-risks</url>
-    <title>404 Not Found</title>
-    <tag>Machine Learning</tag>
   </link>
   <link>
     <id>0</id>
@@ -1038,6 +1038,12 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://www.hoppersroppers.org/roadmap/training/pwning.html</url>
+    <title>How to Learn Binary Exploitation Roadmap | roadmap</title>
+    <tag>Exploit</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://medium.com/@its_a_feature_/agent-customization-in-mythic-tailoring-tools-for-red-team-needs-1746fd02177f</url>
     <title>Agent Customization in Mythic: Tailoring Tools for Red Team Needs | by Cody Thomas | Medium</title>
     <description>In offensive security, we often use tools in a wide range of situations and environments. Because of this, we need to customize tooling to work properly in a very specific scenario and often in a way…</description>
@@ -1053,12 +1059,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://www.hoppersroppers.org/roadmap/training/pwning.html</url>
-    <title>How to Learn Binary Exploitation Roadmap | roadmap</title>
-    <tag>Exploit</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://github.com/BishopFox/sj</url>
     <title>GitHub - BishopFox/sj: A tool for auditing endpoints defined in exposed (Swagger/OpenAPI) definition files.</title>
     <description>A tool for auditing endpoints defined in exposed (Swagger/OpenAPI) definition files. - BishopFox/sj</description>
@@ -1067,9 +1067,9 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://github.com/EleutherAI/pythia</url>
-    <title>GitHub - EleutherAI/pythia: The hub for EleutherAI&#39;s work on interpretability and learning dynamics</title>
-    <description>The hub for EleutherAI&#39;s work on interpretability and learning dynamics - EleutherAI/pythia</description>
+    <url>https://blog.paperspace.com/building-double-deep-q-network-super-mario-bros/</url>
+    <title>Building a Deep Q-Network to Play Super Mario Bros | Paperspace Blog</title>
+    <description>This tutorial covers how to build a double deep Q-network to train an agent that can successfully play Super Mario Bros on Nintendo.</description>
     <tag>Machine Learning</tag>
     <tag>Learn</tag>
   </link>
@@ -1083,9 +1083,9 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://blog.paperspace.com/building-double-deep-q-network-super-mario-bros/</url>
-    <title>Building a Deep Q-Network to Play Super Mario Bros | Paperspace Blog</title>
-    <description>This tutorial covers how to build a double deep Q-network to train an agent that can successfully play Super Mario Bros on Nintendo.</description>
+    <url>https://github.com/EleutherAI/pythia</url>
+    <title>GitHub - EleutherAI/pythia: The hub for EleutherAI&#39;s work on interpretability and learning dynamics</title>
+    <description>The hub for EleutherAI&#39;s work on interpretability and learning dynamics - EleutherAI/pythia</description>
     <tag>Machine Learning</tag>
     <tag>Learn</tag>
   </link>
@@ -1095,6 +1095,13 @@
     <title>guide/style.md at master · uber-go/guide · GitHub</title>
     <description>The Uber Go Style Guide. Contribute to uber-go/guide development by creating an account on GitHub.</description>
     <tag>GoLang</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://www.jetpack.io/devbox</url>
+    <title>Devbox: Portable, Isolated Dev Environments</title>
+    <description>Devbox creates isolated, reproducible development environments that can run anywhere without Docker or virtual machines.</description>
+    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -1108,13 +1115,6 @@
     <url>https://sh4dy.com/2024/04/03/io_uring_1/</url>
     <title>io_uring subsystem - Part 1</title>
     <description>Hey everyone! Welcome to the first part of this blog series on the io_uring subsystem. IntroductionThe io_uring subsystem is designed to improve the performance and efficiency of asynchronous I/O</description>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://www.jetpack.io/devbox</url>
-    <title>Devbox: Portable, Isolated Dev Environments</title>
-    <description>Devbox creates isolated, reproducible development environments that can run anywhere without Docker or virtual machines.</description>
     <tag>Learn</tag>
   </link>
   <link>
@@ -1133,18 +1133,18 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://www.alter-solutions.fr/blog/local-privilege-escalating-my-way-to-root-throught-apple-macos-filesystems</url>
+    <title>Local Privilege Escalating my way to root through Apple macOS filesystems</title>
+    <description>In this article, Yann Gascuel, our Lead Pentester, had to find a Local Privilege Escalation (LPE) on a macOS 13 Ventura. Find out how he did it.</description>
+    <tag>macOS</tag>
+    <tag>Redteam</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://github.com/netbiosX/Checklists</url>
     <title>GitHub - netbiosX/Checklists: Red Teaming &amp; Pentesting checklists for various engagements</title>
     <description>Red Teaming &amp; Pentesting checklists for various engagements - netbiosX/Checklists</description>
     <tag>Checklists</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://bishopfox.com/tools/cloudfox-tool</url>
-    <title>CloudFox: Find Exploitable Attack Paths in Cloud… | Bishop Fox</title>
-    <description>Bishop Fox CloudFox security tool is a collection of enumeration commands that illuminate attack paths for cloud penetration testing.</description>
-    <tag>Pentest</tag>
-    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -1156,11 +1156,11 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://www.alter-solutions.fr/blog/local-privilege-escalating-my-way-to-root-throught-apple-macos-filesystems</url>
-    <title>Local Privilege Escalating my way to root through Apple macOS filesystems</title>
-    <description>In this article, Yann Gascuel, our Lead Pentester, had to find a Local Privilege Escalation (LPE) on a macOS 13 Ventura. Find out how he did it.</description>
-    <tag>macOS</tag>
-    <tag>Redteam</tag>
+    <url>https://bishopfox.com/tools/cloudfox-tool</url>
+    <title>CloudFox: Find Exploitable Attack Paths in Cloud… | Bishop Fox</title>
+    <description>Bishop Fox CloudFox security tool is a collection of enumeration commands that illuminate attack paths for cloud penetration testing.</description>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -1168,31 +1168,6 @@
     <title>What Happens on GitLab When You do git push? · nanmu42</title>
     <description>Ever wondered how Git and GitLab operate under the hood? Grab your favorite IDE and join me on an exploratory journey into the mechanics of these tools!</description>
     <tag>GitHub</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://anasbetis023.medium.com/dont-trust-the-cache-exposing-web-cache-poisoning-and-deception-vulnerabilities-3a829f221f52</url>
-    <title>Don’t Trust the Cache: Exposing Web Cache Poisoning and Deception vulnerabilities | by Anas H Hmaidy | Medium</title>
-    <description>I hope you are doing well. I have been studying the vulnerabilities related to the web cache .So I will share with you a shortcut of all the different techniques that I have seen so far. I’ll assume…</description>
-    <tag>Web</tag>
-    <tag>Pentest</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://blog.chromium.org/2024/04/fighting-cookie-theft-using-device.html</url>
-    <title>Chromium Blog: Fighting cookie theft using device bound sessions</title>
-    <tag>Web</tag>
-    <tag>Pentest</tag>
-    <tag>Redteam</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://arxiv.org/abs/2404.05405</url>
-    <title>[2404.05405] Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws</title>
-    <description>Abstract page for arXiv paper 2404.05405: Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws</description>
-    <tag>API</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -1206,12 +1181,44 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://blog.chromium.org/2024/04/fighting-cookie-theft-using-device.html</url>
+    <title>Chromium Blog: Fighting cookie theft using device bound sessions</title>
+    <tag>Web</tag>
+    <tag>Pentest</tag>
+    <tag>Redteam</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://anasbetis023.medium.com/dont-trust-the-cache-exposing-web-cache-poisoning-and-deception-vulnerabilities-3a829f221f52</url>
+    <title>Don’t Trust the Cache: Exposing Web Cache Poisoning and Deception vulnerabilities | by Anas H Hmaidy | Medium</title>
+    <description>I hope you are doing well. I have been studying the vulnerabilities related to the web cache .So I will share with you a shortcut of all the different techniques that I have seen so far. I’ll assume…</description>
+    <tag>Web</tag>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://arxiv.org/abs/2404.05405</url>
+    <title>[2404.05405] Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws</title>
+    <description>Abstract page for arXiv paper 2404.05405: Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws</description>
+    <tag>API</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://www.wiz.io/blog/wiz-and-hugging-face-address-risks-to-ai-infrastructure</url>
     <title>Hugging Face works with Wiz to strengthen AI cloud security | Wiz Blog</title>
     <description>Wiz researchers find architecture risks that may compromise AI-as-a-Service providers and risk customer data; works with Hugging Face on mitigations.</description>
     <tag>API</tag>
     <tag>Pentest</tag>
     <tag>Redteam</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://transformer-circuits.pub/2023/monosemantic-features/index.html</url>
+    <title>Towards Monosemanticity: Decomposing Language Models With Dictionary Learning</title>
+    <tag>Machine Learning</tag>
+    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -1236,13 +1243,6 @@
     <title>How an old bug in Lighttpd gained new life in AMI BMC, including Lenovo and Intel products</title>
     <description>A Lighttpd vulnerability dating back to 2018 is still putting Intel and Lenovo servers at risk. These vulnerable devices should not be exposed to the internet.</description>
     <tag>Redteam</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://transformer-circuits.pub/2023/monosemantic-features/index.html</url>
-    <title>Towards Monosemanticity: Decomposing Language Models With Dictionary Learning</title>
-    <tag>Machine Learning</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -1303,25 +1303,11 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://youtu.be/ctnfvkokgZw</url>
-    <title>- YouTube</title>
-    <description>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</description>
-    <tag>CI/CD</tag>
-    <tag>Pentest</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://github.com/aquasecurity/chain-bench</url>
     <title>GitHub - aquasecurity/chain-bench: An open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark.</title>
     <description>An open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark. - aquasecurity/chain-bench</description>
     <tag>CI/CD</tag>
     <tag>Pentest</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://wiki.hego.tech/llm-security/garak-a-generative-ai-red-teaming-tool</url>
-    <title>HEGO Wiki</title>
-    <tag>Machine Learning</tag>
   </link>
   <link>
     <id>0</id>
@@ -1344,10 +1330,24 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://youtu.be/ctnfvkokgZw</url>
+    <title>- YouTube</title>
+    <description>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</description>
+    <tag>CI/CD</tag>
+    <tag>Pentest</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://www.landh.tech/blog/20240304-google-hack-50000/</url>
     <title>We Hacked Google A.I. for $50,000 - Lupin &amp; Holmes</title>
     <tag>Machine Learning</tag>
     <tag>Pentest</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://wiki.hego.tech/llm-security/garak-a-generative-ai-red-teaming-tool</url>
+    <title>HEGO Wiki</title>
+    <tag>Machine Learning</tag>
   </link>
   <link>
     <id>0</id>
@@ -1359,6 +1359,14 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://divyanshu-mehta.gitbook.io/researchs/hijacking-cloud-ci-cd-systems-for-fun-and-profit</url>
+    <title>Hijacking Cloud CI/CD Systems for Fun and Profit | Researchs</title>
+    <description>This research details a new technique that can be used by threat actors for supply chain attacks on open-source repositories using GCP, Azure and AWS.</description>
+    <tag>CI/CD</tag>
+    <tag>Pentest</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://hackingthe.cloud/</url>
     <title>Hacking The Cloud - Hacking The Cloud</title>
     <description>The encyclopedia for offensive security in the cloud</description>
@@ -1366,14 +1374,6 @@
     <tag>Redteam</tag>
     <tag>Pentest</tag>
     <tag>Wiki</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://divyanshu-mehta.gitbook.io/researchs/hijacking-cloud-ci-cd-systems-for-fun-and-profit</url>
-    <title>Hijacking Cloud CI/CD Systems for Fun and Profit | Researchs</title>
-    <description>This research details a new technique that can be used by threat actors for supply chain attacks on open-source repositories using GCP, Azure and AWS.</description>
-    <tag>CI/CD</tag>
-    <tag>Pentest</tag>
   </link>
   <link>
     <id>0</id>
@@ -1425,11 +1425,20 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://github.com/cider-security-research/cicd-goat</url>
-    <title>GitHub - cider-security-research/cicd-goat: A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.</title>
-    <description>A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges. - cider-security-research/cicd-goat</description>
-    <tag>GitHub</tag>
+    <url>https://dreadnode.notion.site/2582fe5306274c60b85a5e37cf99da7e?v=74ab79ed1452441dab8a1fa02099fedb</url>
+    <title>Your connected workspace for wiki, docs &amp; projects | Notion</title>
+    <description>A new tool that blends your everyday work apps into one. It&#39;s the all-in-one workspace for you and your team</description>
+    <tag>Machine Learning</tag>
     <tag>Learn</tag>
+    <tag>Pentest</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://trendmicro.com/knowledge-base/</url>
+    <title>Trend Micro | Trend Micro Conformity highlights violations of AWS and Azure best practices, delivering over 1100 different checks across all key areas — security, reliability, cost optimisation, performance efficiency, operational excellence in one easy-to-use package.</title>
+    <description>Trend Micro Conformity highlights violations of AWS and Azure best practices, delivering over 1100 different checks across all key areas — security, reliability, cost optimisation, performance efficiency, operational excellence in one easy-to-use package.</description>
+    <tag>Cloud</tag>
+    <tag>Redteam</tag>
     <tag>Pentest</tag>
   </link>
   <link>
@@ -1441,10 +1450,10 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://dreadnode.notion.site/2582fe5306274c60b85a5e37cf99da7e?v=74ab79ed1452441dab8a1fa02099fedb</url>
-    <title>Your connected workspace for wiki, docs &amp; projects | Notion</title>
-    <description>A new tool that blends your everyday work apps into one. It&#39;s the all-in-one workspace for you and your team</description>
-    <tag>Machine Learning</tag>
+    <url>https://github.com/cider-security-research/cicd-goat</url>
+    <title>GitHub - cider-security-research/cicd-goat: A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.</title>
+    <description>A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges. - cider-security-research/cicd-goat</description>
+    <tag>GitHub</tag>
     <tag>Learn</tag>
     <tag>Pentest</tag>
   </link>
@@ -1455,15 +1464,6 @@
     <description>Abstract page for arXiv paper 2404.13208: The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions</description>
     <tag>Machine Learning</tag>
     <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://trendmicro.com/knowledge-base/</url>
-    <title>Trend Micro | Trend Micro Conformity highlights violations of AWS and Azure best practices, delivering over 1100 different checks across all key areas — security, reliability, cost optimisation, performance efficiency, operational excellence in one easy-to-use package.</title>
-    <description>Trend Micro Conformity highlights violations of AWS and Azure best practices, delivering over 1100 different checks across all key areas — security, reliability, cost optimisation, performance efficiency, operational excellence in one easy-to-use package.</description>
-    <tag>Cloud</tag>
-    <tag>Redteam</tag>
-    <tag>Pentest</tag>
   </link>
   <link>
     <id>0</id>
@@ -1519,6 +1519,14 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://github.com/SpecterOps/Nemesis</url>
+    <title>GitHub - SpecterOps/Nemesis: An offensive data enrichment pipeline</title>
+    <description>An offensive data enrichment pipeline. Contribute to SpecterOps/Nemesis development by creating an account on GitHub.</description>
+    <tag>Redteam</tag>
+    <tag>Tips &amp; Tricks</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://protectai.com/threat-research/april-vulnerability-report</url>
     <title>Protect AI&#39;s April 2024 Vulnerability Report</title>
     <description>At Protect AI we are taking a proactive approach to identifying and addressing security risks in AI systems, to provide the world with critical intelligence on vulnerabilities and how to fix them.</description>
@@ -1528,20 +1536,10 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://github.com/SpecterOps/Nemesis</url>
-    <title>GitHub - SpecterOps/Nemesis: An offensive data enrichment pipeline</title>
-    <description>An offensive data enrichment pipeline. Contribute to SpecterOps/Nemesis development by creating an account on GitHub.</description>
-    <tag>Redteam</tag>
+    <url>https://github.com/BushidoUK/Operational-Security-101</url>
+    <title>GitHub - BushidoUK/Operational-Security-101: A repository of advice and guides to share with friends and family who are concerned about their safety during online activities and the security of their devices.</title>
+    <description>A repository of advice and guides to share with friends and family who are concerned about their safety during online activities and the security of their devices. - BushidoUK/Operational-Security-101</description>
     <tag>Tips &amp; Tricks</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://observationsinsecurity.com/2024/04/25/how-i-hacked-into-googles-internal-corporate-assets/</url>
-    <title>How I hacked into Google’s internal corporate assets – Observations in Security</title>
-    <description>It&#39;s raining command injections! Every now and then, I take some time to work on bug bounty projects to explore threat vectors into real world targets like Google, Tesla and many others. Doing so helps me stay aware of the fast-changing technical landscape, which is crucial for my role as a technology CISO. Plus, it&#39;s…</description>
-    <tag>Web</tag>
-    <tag>Pentest</tag>
-    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -1553,10 +1551,12 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://github.com/BushidoUK/Operational-Security-101</url>
-    <title>GitHub - BushidoUK/Operational-Security-101: A repository of advice and guides to share with friends and family who are concerned about their safety during online activities and the security of their devices.</title>
-    <description>A repository of advice and guides to share with friends and family who are concerned about their safety during online activities and the security of their devices. - BushidoUK/Operational-Security-101</description>
-    <tag>Tips &amp; Tricks</tag>
+    <url>https://observationsinsecurity.com/2024/04/25/how-i-hacked-into-googles-internal-corporate-assets/</url>
+    <title>How I hacked into Google’s internal corporate assets – Observations in Security</title>
+    <description>It&#39;s raining command injections! Every now and then, I take some time to work on bug bounty projects to explore threat vectors into real world targets like Google, Tesla and many others. Doing so helps me stay aware of the fast-changing technical landscape, which is crucial for my role as a technology CISO. Plus, it&#39;s…</description>
+    <tag>Web</tag>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -1684,16 +1684,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://blog.huntr.com/account-hijacking-and-internal-network-attacks-in-kubeflow</url>
-    <title>Account Hijacking and Internal Network Attacks in Kubeflow</title>
-    <description>Learn about critical vulnerabilities in Kubeflow, including account hijacking and internal network attacks.</description>
-    <tag>Machine Learning</tag>
-    <tag>Web</tag>
-    <tag>Pentest</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://research.google/pubs/securing-the-ai-software-supply-chain/</url>
     <title>Securing the AI Software Supply Chain</title>
     <tag>Machine Learning</tag>
@@ -1701,12 +1691,13 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://decompilation.wiki/</url>
-    <title>The Decompilation Wiki - Decompilation Wiki</title>
-    <description>The Decompilation Wiki is a categorized information hub for works and applications of decompilation.</description>
-    <tag>Exploit</tag>
-    <tag>Learn</tag>
+    <url>https://blog.huntr.com/account-hijacking-and-internal-network-attacks-in-kubeflow</url>
+    <title>Account Hijacking and Internal Network Attacks in Kubeflow</title>
+    <description>Learn about critical vulnerabilities in Kubeflow, including account hijacking and internal network attacks.</description>
+    <tag>Machine Learning</tag>
     <tag>Web</tag>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -1735,6 +1726,23 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://decompilation.wiki/</url>
+    <title>The Decompilation Wiki - Decompilation Wiki</title>
+    <description>The Decompilation Wiki is a categorized information hub for works and applications of decompilation.</description>
+    <tag>Exploit</tag>
+    <tag>Learn</tag>
+    <tag>Web</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://sscardapane.it/alice-book</url>
+    <title>Book: Alice’s Adventures in a differentiable wonderland - Simone Scardapane</title>
+    <description>My personal website, where I collect slides, publications, and presentations.</description>
+    <tag>Machine Learning</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://ig.ft.com/generative-ai/</url>
     <title>Generative AI exists because of the transformer</title>
     <description>The technology has resulted in a host of cutting-edge AI applications — but its real power lies beyond text generation</description>
@@ -1746,14 +1754,6 @@
     <url>https://github.com/arpitingle/gpu-alpha</url>
     <title>GitHub - arpitingle/gpu-alpha: High Quality Resources on GPU Programming/Architecture</title>
     <description>High Quality Resources on GPU Programming/Architecture - arpitingle/gpu-alpha</description>
-    <tag>Machine Learning</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://sscardapane.it/alice-book</url>
-    <title>Book: Alice’s Adventures in a differentiable wonderland - Simone Scardapane</title>
-    <description>My personal website, where I collect slides, publications, and presentations.</description>
     <tag>Machine Learning</tag>
     <tag>Learn</tag>
   </link>
@@ -1815,20 +1815,20 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://github.com/CVEProject/cvelist</url>
-    <title>GitHub - CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</title>
-    <description>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023 - CVEProject/cvelist</description>
-    <tag>Pentest</tag>
-    <tag>Tips &amp; Tricks</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://www.breachproof.net/blog/lethal-injection-how-we-hacked-microsoft-ai-chat-bot</url>
     <title>Lethal Injection: How We Hacked Microsoft&#39;s Healthcare Chat Bot</title>
     <description>A story of hacking Microsoft&#39;s flagship healthcare chatbot using a series of vulnerabilities. The vulnerabilities could allow access to sensitive healthcare data of Microsoft customers, and were fixed promptly by Microsoft.</description>
     <tag>BugBounty</tag>
     <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://github.com/CVEProject/cvelist</url>
+    <title>GitHub - CVEProject/cvelist: Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023</title>
+    <description>Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023 - CVEProject/cvelist</description>
+    <tag>Pentest</tag>
+    <tag>Tips &amp; Tricks</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -1891,15 +1891,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://youtu.be/QdA-CRr_oXo</url>
-    <title>- YouTube</title>
-    <description>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</description>
-    <tag>Machine Learning</tag>
-    <tag>Learn</tag>
-    <tag>Tips &amp; Tricks</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://siboehm.com/articles/22/CUDA-MMM</url>
     <title>How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog</title>
     <description>In this post, I’ll iteratively optimize an implementation of matrix multiplication written in CUDA.My goal is not to build a cuBLAS replacement, but to deepl...</description>
@@ -1924,10 +1915,27 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://youtu.be/QdA-CRr_oXo</url>
+    <title>- YouTube</title>
+    <description>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</description>
+    <tag>Machine Learning</tag>
+    <tag>Learn</tag>
+    <tag>Tips &amp; Tricks</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://mathieularose.com/gitops-cicd-github-actions</url>
     <title>Building a GitOps CI/CD Pipeline with GitHub Actions (SOC 2)</title>
     <tag>CI/CD</tag>
     <tag>Tips &amp; Tricks</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://blog.ionatomics.org/2024/05/08/relative-path-file-injection-the-next-evolution-in-rpo/comment-page-1/#comments</url>
+    <title>Relative Path File Injection: The Next Evolution in RPO – ionatomics security blog</title>
+    <description>The author has discovered a technique named Relative Path File Injection (RPFI) while exploring injection vulnerabilities. RPFI allows injecting arbitrary file data into a user&#39;s download via a relative anchor tag. The technique works similarly to Relative Path Overwrite (RPO) and can be used to inject PDFs, shell scripts, and server-side templates, exploiting lenient file…</description>
+    <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -1941,19 +1949,19 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://www.threatmodelingmanifesto.org/</url>
-    <title>Threat Modeling Manifesto</title>
-    <description>The Threat Modeling Manifesto documents the values, principles and key characteristics as an industry guidance for conducting threat modeling.</description>
-    <tag>Pentest</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://www.l3harris.com/newsroom/editorial/2024/03/breaking-sip-apple-signed-packages</url>
     <title>Breaking SIP with Apple-signed Packages | L3Harris® Fast. Forward.</title>
     <description>The original topic of my first blog post, posted approximately a year ago, was to discuss how command injection vulnerabilities are present in PackageKit on macOS. While writing the article, I found some Apple-signed packages which had command injection vulnerabilities which could be used to bypass SIP.</description>
     <tag>macOS</tag>
     <tag>Exploit</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://www.threatmodelingmanifesto.org/</url>
+    <title>Threat Modeling Manifesto</title>
+    <description>The Threat Modeling Manifesto documents the values, principles and key characteristics as an industry guidance for conducting threat modeling.</description>
+    <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -2017,19 +2025,19 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://www.openwall.com/lists/oss-security/2024/04/17/3</url>
-    <title>oss-security - Make your own backdoor: CFLAGS code injection, Makefile injection, pkg-config</title>
-    <tag>Redteam</tag>
-    <tag>Linux</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://hackertarget.com/nmap-dashboard-with-grafana/</url>
     <title>Nmap Dashboard Using Grafana | HackerTarget.com</title>
     <description>Visualise Nmap Results with a detailed Dashboard built using the powerful Open Source Grafana Analytics Software.</description>
     <tag>Pentest</tag>
     <tag>Tips &amp; Tricks</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://www.openwall.com/lists/oss-security/2024/04/17/3</url>
+    <title>oss-security - Make your own backdoor: CFLAGS code injection, Makefile injection, pkg-config</title>
+    <tag>Redteam</tag>
+    <tag>Linux</tag>
+    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -2051,18 +2059,17 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://arstechnica.com/security/2024/05/ssh-backdoor-has-infected-400000-linux-servers-over-15-years-and-keeps-on-spreading/</url>
-    <title>Linux maintainers were infected for 2 years by SSH-dwelling backdoor with huge reach - Ars Technica</title>
-    <description>Ebury backdoors SSH servers in hosting providers, giving the malware extraordinary reach.</description>
-    <tag>Linux</tag>
+    <url>https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html</url>
+    <title>Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet</title>
+    <tag>Machine Learning</tag>
     <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
-    <url>https://blog.ionatomics.org/2024/05/08/relative-path-file-injection-the-next-evolution-in-rpo/comment-page-1/#comments</url>
-    <title>Relative Path File Injection: The Next Evolution in RPO – ionatomics security blog</title>
-    <description>The author has discovered a technique named Relative Path File Injection (RPFI) while exploring injection vulnerabilities. RPFI allows injecting arbitrary file data into a user&#39;s download via a relative anchor tag. The technique works similarly to Relative Path Overwrite (RPO) and can be used to inject PDFs, shell scripts, and server-side templates, exploiting lenient file…</description>
-    <tag>Pentest</tag>
+    <url>https://arstechnica.com/security/2024/05/ssh-backdoor-has-infected-400000-linux-servers-over-15-years-and-keeps-on-spreading/</url>
+    <title>Linux maintainers were infected for 2 years by SSH-dwelling backdoor with huge reach - Ars Technica</title>
+    <description>Ebury backdoors SSH servers in hosting providers, giving the malware extraordinary reach.</description>
+    <tag>Linux</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -2080,13 +2087,6 @@
     <url>https://datatalks.club/blog/mlops-zoomcamp.html</url>
     <title>MLOps Zoomcamp – DataTalks.Club</title>
     <description>Learn MLOps principles and take your projects from the notebook to production in 9 weeks</description>
-    <tag>Machine Learning</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html</url>
-    <title>Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet</title>
     <tag>Machine Learning</tag>
     <tag>Learn</tag>
   </link>
@@ -2115,6 +2115,22 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://infosecwriteups.com/the-ultimate-guide-cheatsheet-to-flipper-zero-d4c42d79d32c</url>
+    <title>Ultimate Flipper Zero CheatSheet: Hack &amp; Secure | InfoSec Write-ups</title>
+    <description>Explore the Flipper Zero: your complete guide to using this versatile hacking tool for security testing, customization, and ethical hacking.</description>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://securitylabs.datadoghq.com/articles/non-production-endpoints-as-an-attack-surface-in-aws/</url>
+    <title>Non-Production Endpoints as an Attack Surface in AWS | Datadog Security Labs</title>
+    <description>Public disclose of CloudTrail bypass vulnerabilities we&#39;ve found in AWS along with our research on using non-production API endpoints for defense evasion.</description>
+    <tag>Cloud</tag>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/</url>
     <title>CVE-2024-4367 - Arbitrary JavaScript execution in PDF.js — Codean Labs</title>
     <description>A vulnerability in PDF.js found by Codean Labs. PDF.js is a JavaScript-based PDF viewer maintained by Mozilla. This bug allows an attacker to execute arbitrary JavaScript code as soon as a malicious PDF file is opened. This affects all Firefox users (</description>
@@ -2134,27 +2150,11 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://infosecwriteups.com/the-ultimate-guide-cheatsheet-to-flipper-zero-d4c42d79d32c</url>
-    <title>Ultimate Flipper Zero CheatSheet: Hack &amp; Secure | InfoSec Write-ups</title>
-    <description>Explore the Flipper Zero: your complete guide to using this versatile hacking tool for security testing, customization, and ethical hacking.</description>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://securitylabs.datadoghq.com/articles/non-production-endpoints-as-an-attack-surface-in-aws/</url>
-    <title>Non-Production Endpoints as an Attack Surface in AWS | Datadog Security Labs</title>
-    <description>Public disclose of CloudTrail bypass vulnerabilities we&#39;ve found in AWS along with our research on using non-production API endpoints for defense evasion.</description>
-    <tag>Cloud</tag>
+    <url>https://pentestbook.six2dez.com/others/web-checklist</url>
+    <title>Pentesting Web checklist | Pentest Book</title>
     <tag>Pentest</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://www.youtube.com/watch?v=u0VotuGzD_w</url>
-    <title>- YouTube</title>
-    <description>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</description>
-    <tag>GitHub</tag>
-    <tag>Learn</tag>
+    <tag>Web</tag>
+    <tag>Checklists</tag>
   </link>
   <link>
     <id>0</id>
@@ -2166,11 +2166,11 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://pentestbook.six2dez.com/others/web-checklist</url>
-    <title>Pentesting Web checklist | Pentest Book</title>
-    <tag>Pentest</tag>
-    <tag>Web</tag>
-    <tag>Checklists</tag>
+    <url>https://www.youtube.com/watch?v=u0VotuGzD_w</url>
+    <title>- YouTube</title>
+    <description>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</description>
+    <tag>GitHub</tag>
+    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -2200,18 +2200,18 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://labs.watchtowr.com/check-point-wrong-check-point-cve-2024-24919/</url>
-    <title>Check Point - Wrong Check Point (CVE-2024-24919)</title>
-    <tag>Exploit</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://hackmd.io/@wLsZPVWhS4OiI_7FBP64Kw/rJ2DKg4cd</url>
     <title>Kubernetes - HackMD</title>
     <description># Kubernetes 1. [Do&#39;s and Don&#39;ts](#checklist) 2. [Choosing a Version](#secure-version)</description>
     <tag>K8s</tag>
     <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://labs.watchtowr.com/check-point-wrong-check-point-cve-2024-24919/</url>
+    <title>Check Point - Wrong Check Point (CVE-2024-24919)</title>
+    <tag>Exploit</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -2224,18 +2224,18 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/abusing-roles-clusterroles-in-kubernetes</url>
-    <title>Page not found - HackTricks Cloud</title>
-    <tag>K8s</tag>
+    <url>https://huntr.com/get-started/intro?utm_campaign=Huntr&amp;utm_content=293065395&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-1214892920475717632</url>
+    <title>huntr - The world’s first bug bounty platform for AI/ML</title>
+    <description>The world’s first bug bounty platform for AI/ML</description>
+    <tag>Machine Learning</tag>
     <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
-    <url>https://huntr.com/get-started/intro?utm_campaign=Huntr&amp;utm_content=293065395&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-1214892920475717632</url>
-    <title>huntr - The world’s first bug bounty platform for AI/ML</title>
-    <description>The world’s first bug bounty platform for AI/ML</description>
-    <tag>Machine Learning</tag>
+    <url>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/abusing-roles-clusterroles-in-kubernetes</url>
+    <title>Page not found - HackTricks Cloud</title>
+    <tag>K8s</tag>
     <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
@@ -2265,6 +2265,14 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://ichyaboys-village.gitbook.io/ichyaboys-village/portswigger-related/client-side-topics/cross-site-scripting-xss</url>
+    <title>Cross-site scripting (XSS) | Ichyaboy</title>
+    <tag>Web</tag>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://www.cybereason.com/blog/container-escape-all-you-need-is-cap-capabilities</url>
     <title>Container Escape: All You Need is Cap (Capabilities)</title>
     <description>Container Escape is considered the &#39;Holy Grail&#39; of the container attack world - it allows an attacker to escape from a container to the underlying host, and by doing so the attacker can move laterally to other containers from the host or perform actions on the host itself...</description>
@@ -2278,14 +2286,6 @@
     <title>GitHub - anthropics/courses: Anthropic&#39;s educational courses</title>
     <description>Anthropic&#39;s educational courses. Contribute to anthropics/courses development by creating an account on GitHub.</description>
     <tag>Machine Learning</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://ichyaboys-village.gitbook.io/ichyaboys-village/portswigger-related/client-side-topics/cross-site-scripting-xss</url>
-    <title>Cross-site scripting (XSS) | Ichyaboy</title>
-    <tag>Web</tag>
-    <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -2327,31 +2327,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>http://applied-llms.org/</url>
-    <title>What We’ve Learned From A Year of Building with LLMs – Applied LLMs</title>
-    <description>A practical guide to building successful LLM products, covering the tactical, operational, and strategic.</description>
-    <tag>Machine Learning</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://www.youtube.com/watch?v=vFk0XtHfuSg</url>
-    <title>- YouTube</title>
-    <description>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</description>
-    <tag>Redteam</tag>
-    <tag>Pentest</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://www.landh.tech/blog/20240603-npm-cache-poisoning/</url>
-    <title>How a Single Vulnerability Can Bring Down the JavaScript Ecosystem - Lupin &amp; Holmes</title>
-    <tag>Web</tag>
-    <tag>Pentest</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://youtu.be/2ziuPUeewK0</url>
     <title>- YouTube</title>
     <description>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</description>
@@ -2369,18 +2344,36 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://www.youtube.com/watch?v=vFk0XtHfuSg</url>
+    <title>- YouTube</title>
+    <description>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</description>
+    <tag>Redteam</tag>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>http://applied-llms.org/</url>
+    <title>What We’ve Learned From A Year of Building with LLMs – Applied LLMs</title>
+    <description>A practical guide to building successful LLM products, covering the tactical, operational, and strategic.</description>
+    <tag>Machine Learning</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://www.landh.tech/blog/20240603-npm-cache-poisoning/</url>
+    <title>How a Single Vulnerability Can Bring Down the JavaScript Ecosystem - Lupin &amp; Holmes</title>
+    <tag>Web</tag>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://github.com/yo-yo-yo-jbo/linux_pwn_intro</url>
     <title>GitHub - yo-yo-yo-jbo/linux_pwn_intro</title>
     <description>Contribute to yo-yo-yo-jbo/linux_pwn_intro development by creating an account on GitHub.</description>
     <tag>Exploit</tag>
     <tag>Linux</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://genai-handbook.github.io/</url>
-    <title>GenAI Handbook</title>
-    <tag>Machine Learning</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -2394,16 +2387,8 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://situational-awareness.ai/</url>
-    <title>Introduction - SITUATIONAL AWARENESS: The Decade Ahead</title>
-    <tag>Machine Learning</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://arxiv.org/abs/2406.04268</url>
-    <title>[2406.04268] Open-Endedness is Essential for Artificial Superhuman Intelligence</title>
-    <description>Abstract page for arXiv paper 2406.04268: Open-Endedness is Essential for Artificial Superhuman Intelligence</description>
+    <url>https://genai-handbook.github.io/</url>
+    <title>GenAI Handbook</title>
     <tag>Machine Learning</tag>
     <tag>Learn</tag>
   </link>
@@ -2418,10 +2403,34 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://situational-awareness.ai/</url>
+    <title>Introduction - SITUATIONAL AWARENESS: The Decade Ahead</title>
+    <description>Leopold Aschenbrenner, June 2024 You can see the future first in San Francisco. Over the past year, the talk of the town has shifted from $10 billion compute clusters to $100 billion clusters to trillion-dollar clusters. Every six months another zero is added to the boardroom plans. Behind the scenes, there’s a fierce scramble to</description>
+    <tag>Machine Learning</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://medium.com/@noah_h/top-offensive-techniques-for-kubernetes-a71399d133b2</url>
     <title>A Kubernetes Pentesting Checklist. | by Noah | Medium</title>
     <description>This article considers various techniques in offensive Kubernetes security related to RBAC, Kubelet, Etcd, EKS, admission controllers.</description>
     <tag>K8s</tag>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://arxiv.org/abs/2406.04268</url>
+    <title>[2406.04268] Open-Endedness is Essential for Artificial Superhuman Intelligence</title>
+    <description>Abstract page for arXiv paper 2406.04268: Open-Endedness is Essential for Artificial Superhuman Intelligence</description>
+    <tag>Machine Learning</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://blog.blacklanternsecurity.com/p/introducing-baddns</url>
+    <title>Introducing BadDNS - by Paul Mueller</title>
+    <description>Black Lantern Security is publicly releasing our new Python DNS auditing tool, BadDNS.</description>
     <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
@@ -2436,21 +2445,16 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://blog.blacklanternsecurity.com/p/introducing-baddns</url>
-    <title>Introducing BadDNS - by Paul Mueller</title>
-    <description>Black Lantern Security is publicly releasing our new Python DNS auditing tool, BadDNS.</description>
-    <tag>Pentest</tag>
+    <url>https://beginners.re/</url>
+    <title>&#34;Reverse Engineering for Beginners&#34; book</title>
+    <tag>Exploit</tag>
     <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
-    <url>https://snyk.io/blog/exploring-vulnerabilities-github-actions/</url>
-    <title>Call for action: Exploring vulnerabilities in Github Actions | Snyk</title>
-    <description>In this blog post, we will provide an overview of GitHub Actions, examine various vulnerable scenarios with real-world examples, offer clear guidance on securely using error-prone features, and introduce an open source tool designed to scan configuration files and flag potential issues.</description>
-    <tag>GitHub</tag>
-    <tag>Pentest</tag>
-    <tag>Redteam</tag>
-    <tag>Learn</tag>
+    <url>https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/mobilebasic</url>
+    <title>Dan&#39;s right answers for cybersecurity</title>
+    <tag>Misc</tag>
   </link>
   <link>
     <id>0</id>
@@ -2471,9 +2475,12 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://beginners.re/</url>
-    <title>&#34;Reverse Engineering for Beginners&#34; book</title>
-    <tag>Exploit</tag>
+    <url>https://snyk.io/blog/exploring-vulnerabilities-github-actions/</url>
+    <title>Call for action: Exploring vulnerabilities in Github Actions | Snyk</title>
+    <description>In this blog post, we will provide an overview of GitHub Actions, examine various vulnerable scenarios with real-world examples, offer clear guidance on securely using error-prone features, and introduce an open source tool designed to scan configuration files and flag potential issues.</description>
+    <tag>GitHub</tag>
+    <tag>Pentest</tag>
+    <tag>Redteam</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -2481,16 +2488,6 @@
     <url>https://blog.trailofbits.com/2024/06/11/exploiting-ml-models-with-pickle-file-attacks-part-2/</url>
     <title>Exploiting ML models with pickle file attacks: Part 2 - The Trail of Bits Blog</title>
     <tag>Machine Learning</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://github.com/synacktiv/octoscan</url>
-    <title>GitHub - synacktiv/octoscan: Octoscan is a static vulnerability scanner for GitHub action workflows.</title>
-    <description>Octoscan is a static vulnerability scanner for GitHub action workflows. - synacktiv/octoscan</description>
-    <tag>CI/CD</tag>
-    <tag>GitHub</tag>
-    <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -2520,14 +2517,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://youtu.be/kPGTx4wcm_w</url>
-    <title>- YouTube</title>
-    <description>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</description>
-    <tag>Machine Learning</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://atcold.github.io/NYU-AISP24/</url>
     <title>ARTIFICIAL INTELLIGENCE · Artificial Intelligence</title>
     <tag>Machine Learning</tag>
@@ -2536,17 +2525,11 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://docs.google.com/document/d/1-_0Wlwch_vtkPM4F-SdEXLjQYaYT7KoPlU2rjt7tkLQ/mobilebasic</url>
-    <title>Dan&#39;s right answers for cybersecurity</title>
-    <tag>Misc</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://www.horizon3.ai/attack-research/disclosures/exploiting-file-read-vulnerabilities-in-gradio-to-steal-secrets-from-hugging-face-spaces/</url>
-    <title>Exploiting File Read Vulnerabilities in Gradio to Steal Secrets from Hugging Face Spaces | Horizon3.ai</title>
-    <description>Exploiting file read vulnerabilities in Gradio to steal secrets from Hugging Face Spaces.</description>
+    <url>https://youtu.be/kPGTx4wcm_w</url>
+    <title>- YouTube</title>
+    <description>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</description>
     <tag>Machine Learning</tag>
-    <tag>Pentest</tag>
+    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -2559,8 +2542,25 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://www.horizon3.ai/attack-research/disclosures/exploiting-file-read-vulnerabilities-in-gradio-to-steal-secrets-from-hugging-face-spaces/</url>
+    <title>Exploiting File Read Vulnerabilities in Gradio to Steal Secrets from Hugging Face Spaces | Horizon3.ai</title>
+    <description>Exploiting file read vulnerabilities in Gradio to steal secrets from Hugging Face Spaces.</description>
+    <tag>Machine Learning</tag>
+    <tag>Pentest</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://plummergriffinbook.stanford.edu/</url>
     <title>James D. Plummer and Peter B. Griffin</title>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://blog.projectdiscovery.io/guide-to-dns-takeovers/</url>
+    <title>A Guide to DNS Takeovers: The Misunderstood Cousin of Subdomain Takeovers — ProjectDiscovery Blog</title>
+    <description>Introduction Let&#39;s start with this: A DNS takeover is not the same as a subdomain takeover. Subdomain takeovers are old news. Hackers who caught onto them early made busloads of bounties by automating their detection and exploitation. They&#39;re still out there, but competition is fierce. Crafty hackers built bots that detect and report subdomain takeovers within minutes of them becoming vulnerable. DNS takeovers are the ...</description>
+    <tag>Pentest</tag>
+    <tag>Redteam</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -2571,15 +2571,6 @@
     <tag>K8s</tag>
     <tag>Tips &amp; Tricks</tag>
     <tag>Pentest</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://blog.projectdiscovery.io/guide-to-dns-takeovers/</url>
-    <title>A Guide to DNS Takeovers: The Misunderstood Cousin of Subdomain Takeovers — ProjectDiscovery Blog</title>
-    <description>Introduction Let&#39;s start with this: A DNS takeover is not the same as a subdomain takeover. Subdomain takeovers are old news. Hackers who caught onto them early made busloads of bounties by automating their detection and exploitation. They&#39;re still out there, but competition is fierce. Crafty hackers built bots that detect and report subdomain takeovers within minutes of them becoming vulnerable. DNS takeovers are the ...</description>
-    <tag>Pentest</tag>
-    <tag>Redteam</tag>
-    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -2594,26 +2585,9 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems</url>
-    <title>Challenges in Red Teaming AI Systems \ Anthropic</title>
-    <description>In this post we detail insights from a sample of red teaming approaches that we’ve used to test our AI systems. Through this practice, we’ve begun to gather empirical data about the appropriate tool to reach for in a given situation, and the associated benefits and challenges with each approach. We hope this post is helpful for other companies trying to red team their AI ...</description>
-    <tag>Machine Learning</tag>
-    <tag>Learn</tag>
-    <tag>Redteam</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://github.com/andyrdt/refusal_direction</url>
     <title>GitHub - andyrdt/refusal_direction: Code and results accompanying the paper &#34;Refusal in Language Models Is Mediated by a Single Direction&#34;.</title>
     <description>Code and results accompanying the paper &#34;Refusal in Language Models Is Mediated by a Single Direction&#34;. - andyrdt/refusal_direction</description>
-    <tag>Machine Learning</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://www.anthropic.com/research/reward-tampering</url>
-    <title>Sycophancy to subterfuge: Investigating reward tampering in language models \ Anthropic</title>
-    <description>Empirical evidence that serious misalignment can emerge from seemingly benign reward misspecification.</description>
     <tag>Machine Learning</tag>
     <tag>Learn</tag>
   </link>
@@ -2642,15 +2616,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>http://wfuzz.io/</url>
-    <title>wfuzz.io - wfuzz Resources and Information.</title>
-    <description>wfuzz.io is your first and best source for all of the information you’re looking for. From general topics to more of what you would expect to find here, wfuzz.io has it all. We hope you find what you are searching for!</description>
-    <tag>Web</tag>
-    <tag>Pentest</tag>
-    <tag>Tips &amp; Tricks</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://arxiv.org/abs/2406.12814</url>
     <title>[2406.12814] Dissecting Adversarial Robustness of Multimodal LM Agents</title>
     <description>Abstract page for arXiv paper 2406.12814: Dissecting Adversarial Robustness of Multimodal LM Agents</description>
@@ -2660,25 +2625,20 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://github.com/karpathy/LLM101n</url>
-    <title>GitHub - karpathy/LLM101n: LLM101n: Let&#39;s build a Storyteller</title>
-    <description>LLM101n: Let&#39;s build a Storyteller. Contribute to karpathy/LLM101n development by creating an account on GitHub.</description>
-    <tag>Learn</tag>
-    <tag>Machine Learning</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://securingdev.github.io/posts/building-the-hacbook/</url>
-    <title>Building the HacBook 🍎 | securing.dev</title>
-    <description>After winning the U.S. Department of Defense Chief Digital and Artificial Intelligence Office AI Bias Bounty program (gosh - that’s a mouthful 😅), I used some of the winnings to treat myself to a brand-new, fully-loaded MacBook Air M3. I’ve always enjoyed using light-weight laptops 😊 and this model felt like it had enough RAM (24 GB) and CPU to handle the “closed box” testing ...</description>
-    <tag>Tips &amp; Tricks</tag>
+    <url>https://github.com/synacktiv/octoscan</url>
+    <title>GitHub - synacktiv/octoscan: Octoscan is a static vulnerability scanner for GitHub action workflows.</title>
+    <description>Octoscan is a static vulnerability scanner for GitHub action workflows. - synacktiv/octoscan</description>
+    <tag>CI/CD</tag>
+    <tag>GitHub</tag>
+    <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
-    <url>https://github.com/RustScan/RustScan</url>
-    <title>GitHub - bee-san/RustScan: 🤖 The Modern Port Scanner 🤖</title>
-    <description>🤖 The Modern Port Scanner 🤖. Contribute to bee-san/RustScan development by creating an account on GitHub.</description>
+    <url>http://wfuzz.io/</url>
+    <title>wfuzz.io - wfuzz Resources and Information.</title>
+    <description>wfuzz.io is your first and best source for all of the information you’re looking for. From general topics to more of what you would expect to find here, wfuzz.io has it all. We hope you find what you are searching for!</description>
+    <tag>Web</tag>
     <tag>Pentest</tag>
     <tag>Tips &amp; Tricks</tag>
   </link>
@@ -2691,17 +2651,27 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://queue.acm.org/detail.cfm?id=3197520</url>
-    <title>Manual Work is a Bug - ACM Queue</title>
+    <url>https://securingdev.github.io/posts/building-the-hacbook/</url>
+    <title>Building the HacBook 🍎 | securing.dev</title>
+    <description>After winning the U.S. Department of Defense Chief Digital and Artificial Intelligence Office AI Bias Bounty program (gosh - that’s a mouthful 😅), I used some of the winnings to treat myself to a brand-new, fully-loaded MacBook Air M3. I’ve always enjoyed using light-weight laptops 😊 and this model felt like it had enough RAM (24 GB) and CPU to handle the “closed box” testing ...</description>
+    <tag>Tips &amp; Tricks</tag>
     <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
-    <url>https://www.redteams.fyi/</url>
-    <title>Home</title>
-    <description>A model for building and improving your internal Red Team</description>
-    <tag>Redteam</tag>
+    <url>https://github.com/karpathy/LLM101n</url>
+    <title>GitHub - karpathy/LLM101n: LLM101n: Let&#39;s build a Storyteller</title>
+    <description>LLM101n: Let&#39;s build a Storyteller. Contribute to karpathy/LLM101n development by creating an account on GitHub.</description>
     <tag>Learn</tag>
+    <tag>Machine Learning</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://github.com/RustScan/RustScan</url>
+    <title>GitHub - bee-san/RustScan: 🤖 The Modern Port Scanner 🤖</title>
+    <description>🤖 The Modern Port Scanner 🤖. Contribute to bee-san/RustScan development by creating an account on GitHub.</description>
+    <tag>Pentest</tag>
+    <tag>Tips &amp; Tricks</tag>
   </link>
   <link>
     <id>0</id>
@@ -2714,10 +2684,9 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://gopivot.ing/</url>
-    <title>About - Pivot Atlas</title>
-    <description>A pivoting handbook for cyber threat intel analysts</description>
-    <tag>Pentest</tag>
+    <url>https://www.redteams.fyi/</url>
+    <title>Home</title>
+    <description>A model for building and improving your internal Red Team</description>
     <tag>Redteam</tag>
     <tag>Learn</tag>
   </link>
@@ -2730,10 +2699,8 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://medium.com/@n4if/otp-bypass-through-session-manipulation-d73deceaa42f</url>
-    <title>OTP Bypass through Session Manipulation | by Naif Al-anazi | Medium</title>
-    <description>I’m excited to share my journey into the world of OTP bypass vulnerabilities. Recently, I discovered a subtle but impactful flaw in a web login system that allows attackers to bypass OTP verification…</description>
-    <tag>Pentest</tag>
+    <url>https://queue.acm.org/detail.cfm?id=3197520</url>
+    <title>Manual Work is a Bug - ACM Queue</title>
     <tag>Learn</tag>
   </link>
   <link>
@@ -2744,6 +2711,23 @@
     <tag>K8s</tag>
     <tag>Pentest</tag>
     <tag>Tips &amp; Tricks</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://gopivot.ing/</url>
+    <title>About - Pivot Atlas</title>
+    <description>A pivoting handbook for cyber threat intel analysts</description>
+    <tag>Pentest</tag>
+    <tag>Redteam</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://medium.com/@n4if/otp-bypass-through-session-manipulation-d73deceaa42f</url>
+    <title>OTP Bypass through Session Manipulation | by Naif Al-anazi | Medium</title>
+    <description>I’m excited to share my journey into the world of OTP bypass vulnerabilities. Recently, I discovered a subtle but impactful flaw in a web login system that allows attackers to bypass OTP verification…</description>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -2763,10 +2747,11 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://ir0nstone.gitbook.io/notes/types/kernel/the-ultimate-aim-of-kernel-exploitation-process-credentials</url>
-    <title>The Ultimate Aim of Kernel Exploitation - Process Credentials | Cybersecurity Notes</title>
+    <url>https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/</url>
+    <title>Mitigating Skeleton Key, a new type of generative AI jailbreak technique | Microsoft Security Blog</title>
+    <tag>Machine Learning</tag>
     <tag>Learn</tag>
-    <tag>Exploit</tag>
+    <tag>Offensive</tag>
   </link>
   <link>
     <id>0</id>
@@ -2785,19 +2770,10 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/</url>
-    <title>Mitigating Skeleton Key, a new type of generative AI jailbreak technique | Microsoft Security Blog</title>
-    <tag>Machine Learning</tag>
+    <url>https://ir0nstone.gitbook.io/notes/types/kernel/the-ultimate-aim-of-kernel-exploitation-process-credentials</url>
+    <title>The Ultimate Aim of Kernel Exploitation - Process Credentials | Cybersecurity Notes</title>
     <tag>Learn</tag>
-    <tag>Offensive</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://transparency.meta.com/en-gb/metasecurity/threat-reporting/</url>
-    <title>Meta’s threat disruptions | Transparency Center</title>
-    <description>This list provides a deep dive into our work to detect and counter security threats on our platform, broken down by year. We will continue to update this...</description>
-    <tag>Offensive</tag>
-    <tag>Learn</tag>
+    <tag>Exploit</tag>
   </link>
   <link>
     <id>0</id>
@@ -2809,17 +2785,17 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations</url>
-    <title>A new initiative for developing third-party model evaluations \ Anthropic</title>
-    <description>A robust, third-party evaluation ecosystem is essential for assessing AI capabilities and risks, but the current evaluations landscape is limited. Developing high-quality, safety-relevant evaluations (evals) remains challenging, and the demand is outpacing the supply. To address this, today we&#39;re introducing a new initiative to fund evaluations developed by third-party organizations that can effectively measure advanced capabilities in AI models.</description>
-    <tag>Machine Learning</tag>
+    <url>https://slack.engineering/catching-compromised-cookies/</url>
+    <title>Catching Compromised Cookies - Engineering at Slack</title>
+    <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
-    <url>https://slack.engineering/catching-compromised-cookies/</url>
-    <title>Catching Compromised Cookies - Engineering at Slack</title>
-    <tag>Pentest</tag>
+    <url>https://transparency.meta.com/en-gb/metasecurity/threat-reporting/</url>
+    <title>Meta’s threat disruptions | Transparency Center</title>
+    <description>This list provides a deep dive into our work to detect and counter security threats on our platform, broken down by year. We will continue to update this...</description>
+    <tag>Offensive</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -2836,6 +2812,15 @@
     <title>GitHub Actions exploitation: untrusted input</title>
     <tag>GitHub</tag>
     <tag>CI/CD</tag>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://ibrahimxss.medium.com/discovering-10-xss-vulnerabilities-my-journey-into-microsofts-support-platforms-b19c4e520c90</url>
+    <title>Discovering 10 XSS Vulnerabilities: My Journey into Microsoft’s Support Platforms | by xss0r | Medium</title>
+    <description>On an ordinary day, my curiosity led me to explore Microsoft’s platforms, specifically focusing on potential vulnerabilities in the “Office” and Microsoft domains. I embarked on a meticulous journey…</description>
+    <tag>BugBounty</tag>
     <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
@@ -2858,26 +2843,17 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://rural-tune-378.notion.site/IDOR-Attack-vectors-exploitation-bypasses-and-chains-0b73eb18e9b640ce8c337af83f397a6b</url>
-    <title>Your connected workspace for wiki, docs &amp; projects | Notion</title>
-    <description>A new tool that blends your everyday work apps into one. It&#39;s the all-in-one workspace for you and your team</description>
-    <tag>Pentest</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://ibrahimxss.medium.com/discovering-10-xss-vulnerabilities-my-journey-into-microsofts-support-platforms-b19c4e520c90</url>
-    <title>Discovering 10 XSS Vulnerabilities: My Journey into Microsoft’s Support Platforms | by xss0r | Medium</title>
-    <description>On an ordinary day, my curiosity led me to explore Microsoft’s platforms, specifically focusing on potential vulnerabilities in the “Office” and Microsoft domains. I embarked on a meticulous journey…</description>
-    <tag>BugBounty</tag>
-    <tag>Pentest</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://docs.fluidattacks.com/criteria/fixes/python/</url>
     <title>Application security testing solutions | Fluid Attacks</title>
     <description>Our application security testing combines automation and penetration testing to find all vulnerabilities so you can deploy secure software, achieve DevSecOps and reduce cyber risks.</description>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://rural-tune-378.notion.site/IDOR-Attack-vectors-exploitation-bypasses-and-chains-0b73eb18e9b640ce8c337af83f397a6b</url>
+    <title>Your connected workspace for wiki, docs &amp; projects | Notion</title>
+    <description>A new tool that blends your everyday work apps into one. It&#39;s the all-in-one workspace for you and your team</description>
     <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
@@ -2895,6 +2871,15 @@
     <title>graudit</title>
     <tag>Pentest</tag>
     <tag>Tips &amp; Tricks</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems</url>
+    <title>Challenges in Red Teaming AI Systems \ Anthropic</title>
+    <description>In this post we detail insights from a sample of red teaming approaches that we’ve used to test our AI systems. Through this practice, we’ve begun to gather empirical data about the appropriate tool to reach for in a given situation, and the associated benefits and challenges with each approach. We hope this post is helpful for other companies trying to red team their AI ...</description>
+    <tag>Machine Learning</tag>
+    <tag>Learn</tag>
+    <tag>Redteam</tag>
   </link>
   <link>
     <id>0</id>
@@ -2938,14 +2923,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/</url>
-    <title>CVE-2024-4367 - Arbitrary JavaScript execution in PDF.js — Codean Labs</title>
-    <description>A vulnerability in PDF.js found by Codean Labs. PDF.js is a JavaScript-based PDF viewer maintained by Mozilla. This bug allows an attacker to execute arbitrary JavaScript code as soon as a malicious PDF file is opened. This affects all Firefox users (</description>
-    <tag>Pentest</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://www.deep-ml.com/</url>
     <title>Deep-ML</title>
     <description>Practice Machine Learning with Deep-ML</description>
@@ -2954,10 +2931,18 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://tensorgym.com/exercises</url>
-    <title>TensorGym Exercises - Comprehensive Machine Learning Practice</title>
-    <description>Explore a wide range of practical machine learning exercises on TensorGym. From tensor operations to advanced ML algorithms, enhance your skills with hands-on experience.</description>
+    <url>https://www.anthropic.com/research/reward-tampering</url>
+    <title>Sycophancy to subterfuge: Investigating reward tampering in language models \ Anthropic</title>
+    <description>Empirical evidence that serious misalignment can emerge from seemingly benign reward misspecification.</description>
     <tag>Machine Learning</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/</url>
+    <title>CVE-2024-4367 - Arbitrary JavaScript execution in PDF.js — Codean Labs</title>
+    <description>A vulnerability in PDF.js found by Codean Labs. PDF.js is a JavaScript-based PDF viewer maintained by Mozilla. This bug allows an attacker to execute arbitrary JavaScript code as soon as a malicious PDF file is opened. This affects all Firefox users (</description>
+    <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -2969,18 +2954,18 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://hackers-arise.net/2024/06/04/satellite-hacking-part-1-getting-started/</url>
+    <title>Not Acceptable!</title>
+    <tag>Offensive</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://www.devsecurely.com/blog/2024/06/cors-the-ultimate-guide</url>
     <title>CORS: the ultimate guide | Devsecurely</title>
     <description>A simple and concrete guide on the world of CORS. It explain what it is, how it works, and how to set it up to protect your website.</description>
     <tag>Web</tag>
     <tag>Pentest</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://hackers-arise.net/2024/06/04/satellite-hacking-part-1-getting-started/</url>
-    <title>Not Acceptable!</title>
-    <tag>Offensive</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3005,6 +2990,15 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://danaepp.com/the-beginners-guide-to-writing-api-security-tests-in-postman</url>
+    <title>The Beginners Guide to Writing API Security Tests in Postman</title>
+    <description>Learn everything you need to know about how to get started writing API security tests in Javascript using Postman.</description>
+    <tag>Pentest</tag>
+    <tag>API</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://github.com/infoslack/awesome-web-hacking</url>
     <title>GitHub - infoslack/awesome-web-hacking: A list of web application security</title>
     <description>A list of web application security. Contribute to infoslack/awesome-web-hacking development by creating an account on GitHub.</description>
@@ -3014,11 +3008,10 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://danaepp.com/the-beginners-guide-to-writing-api-security-tests-in-postman</url>
-    <title>The Beginners Guide to Writing API Security Tests in Postman</title>
-    <description>Learn everything you need to know about how to get started writing API security tests in Javascript using Postman.</description>
-    <tag>Pentest</tag>
-    <tag>API</tag>
+    <url>https://tensorgym.com/exercises</url>
+    <title>TensorGym Exercises - Comprehensive Machine Learning Practice</title>
+    <description>Explore a wide range of practical machine learning exercises on TensorGym. From tensor operations to advanced ML algorithms, enhance your skills with hands-on experience.</description>
+    <tag>Machine Learning</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3085,13 +3078,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://www.lmnr.ai/</url>
-    <title>Laminar</title>
-    <tag>API</tag>
-    <tag>Tips &amp; Tricks</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://trustedsec.com/blog/assumed-breach-the-evolution-of-offensive-security-testing</url>
     <title>TrustedSec | Assumed Breach: The Evolution of Offensive Security…</title>
     <tag>Redteam</tag>
@@ -3100,13 +3086,10 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://unit42.paloaltonetworks.com/container-escape-techniques/</url>
-    <title>Container Breakouts: Escape Techniques in Cloud Environments</title>
-    <description>Unit 42 researchers test container escape methods and possible impacts within a Kubernetes cluster using a containerd container runtime.</description>
-    <tag>K8s</tag>
-    <tag>Pentest</tag>
-    <tag>Redteam</tag>
-    <tag>Learn</tag>
+    <url>https://www.lmnr.ai/</url>
+    <title>Laminar</title>
+    <tag>API</tag>
+    <tag>Tips &amp; Tricks</tag>
   </link>
   <link>
     <id>0</id>
@@ -3137,6 +3120,16 @@
     <title>503 Service Unavailable</title>
     <tag>Linux</tag>
     <tag>Exploit</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://unit42.paloaltonetworks.com/container-escape-techniques/</url>
+    <title>Container Breakouts: Escape Techniques in Cloud Environments</title>
+    <description>Unit 42 researchers test container escape methods and possible impacts within a Kubernetes cluster using a containerd container runtime.</description>
+    <tag>K8s</tag>
+    <tag>Pentest</tag>
+    <tag>Redteam</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3175,14 +3168,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://docs.docker.com/language/python/containerize/</url>
-    <title>Containerize your app | Docker Docs</title>
-    <description>Learn how to containerize a Python application.</description>
-    <tag>Learn</tag>
-    <tag>Tips &amp; Tricks</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Playbook</url>
     <title>Welcome to the Offensive ML Playbook - OffSecML Playbook</title>
     <description>Welcome to the Offensive ML Playbook - OffSecML Playbook</description>
@@ -3192,10 +3177,26 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://docs.docker.com/language/python/containerize/</url>
+    <title>Containerize your app | Docker Docs</title>
+    <description>Learn how to containerize a Python application.</description>
+    <tag>Learn</tag>
+    <tag>Tips &amp; Tricks</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://awssecuritydigest.com/articles/opinionated-ramp-up-guide-to-aws-pentesting</url>
     <title>An Opinionated Ramp Up Guide to AWS Pentesting</title>
     <tag>Pentest</tag>
     <tag>Cloud</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations</url>
+    <title>A new initiative for developing third-party model evaluations \ Anthropic</title>
+    <description>A robust, third-party evaluation ecosystem is essential for assessing AI capabilities and risks, but the current evaluations landscape is limited. Developing high-quality, safety-relevant evaluations (evals) remains challenging, and the demand is outpacing the supply. To address this, today we&#39;re introducing a new initiative to fund evaluations developed by third-party organizations that can effectively measure advanced capabilities in AI models.</description>
+    <tag>Machine Learning</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3209,19 +3210,19 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://securitycipher.com/security-tools/</url>
-    <title>Security Tools - Security Cipher</title>
-    <description>A consolidated database of security tools, serving as a valuable resource for both penetration testers and bug bounty hunters</description>
-    <tag>Pentest</tag>
-    <tag>Tips &amp; Tricks</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://blog.intigriti.com/hacking-tools/ssrf-a-complete-guide-to-exploiting-advanced-ssrf-vulnerabilities</url>
     <title>SSRF: A complete guide to exploiting advanced SSRF vulnerabilities</title>
     <description>SSRF—short for Server-Side Request Forgery—vulnerabilities are amongst one of the most impactful web security vulnerabilities. Even though they are less commonly found on targets they do take place on...</description>
     <tag>Web</tag>
     <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://github.com/jcldf/ultimate-hardware-hacking-gear-guide-</url>
+    <title>GitHub - jcldf/ultimate-hardware-hacking-gear-guide-: Unlock Exclusive Insights! 🚀📖 Download My FREE E-Zine Now ➡️ Over 170 Pages of Essential Content! Elevate your hardware hacking game with insider tips and the latest trends. Don’t miss out—grab your copy today and transform your projects!</title>
+    <description>Unlock Exclusive Insights! 🚀📖 Download My FREE E-Zine Now ➡️ Over 170 Pages of Essential Content! Elevate your hardware hacking game with insider tips and the latest trends. Don’t miss out—grab your copy today and transform your projects! - jcldf/ultimate-hardware-hacking-gear-guide-</description>
+    <tag>Tips &amp; Tricks</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3235,10 +3236,11 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://github.com/jcldf/ultimate-hardware-hacking-gear-guide-</url>
-    <title>GitHub - jcldf/ultimate-hardware-hacking-gear-guide-: Unlock Exclusive Insights! 🚀📖 Download My FREE E-Zine Now ➡️ Over 170 Pages of Essential Content! Elevate your hardware hacking game with insider tips and the latest trends. Don’t miss out—grab your copy today and transform your projects!</title>
-    <description>Unlock Exclusive Insights! 🚀📖 Download My FREE E-Zine Now ➡️ Over 170 Pages of Essential Content! Elevate your hardware hacking game with insider tips and the latest trends. Don’t miss out—grab your copy today and transform your projects! - jcldf/ultimate-hardware-hacking-gear-guide-</description>
-    <tag>Tips &amp; Tricks</tag>
+    <url>https://oreobiscuit.gitbook.io/introduction/mains/build-your-own-bug-bounty-methodology</url>
+    <title>Build your own Bug Bounty Methodology | Biscuit&#39;s Bug Bounty Playbook</title>
+    <description>Here I&#39;m documenting all the Methodologies I found on Internet So you can learn from them and make your own unique methodology from it</description>
+    <tag>BugBounty</tag>
+    <tag>Web</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3251,11 +3253,11 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://gitlab.com/xanhacks/web-pentest-reports</url>
-    <title>xanhacks / Web Pentest Reports · GitLab</title>
-    <description>List of template vulnerability reports for web pentesting.</description>
+    <url>https://securitycipher.com/security-tools/</url>
+    <title>Security Tools - Security Cipher</title>
+    <description>A consolidated database of security tools, serving as a valuable resource for both penetration testers and bug bounty hunters</description>
     <tag>Pentest</tag>
-    <tag>Learn</tag>
+    <tag>Tips &amp; Tricks</tag>
   </link>
   <link>
     <id>0</id>
@@ -3266,11 +3268,10 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://oreobiscuit.gitbook.io/introduction/mains/build-your-own-bug-bounty-methodology</url>
-    <title>Build your own Bug Bounty Methodology | Biscuit&#39;s Bug Bounty Playbook</title>
-    <description>Here I&#39;m documenting all the Methodologies I found on Internet So you can learn from them and make your own unique methodology from it</description>
-    <tag>BugBounty</tag>
-    <tag>Web</tag>
+    <url>https://gitlab.com/xanhacks/web-pentest-reports</url>
+    <title>xanhacks / Web Pentest Reports · GitLab</title>
+    <description>List of template vulnerability reports for web pentesting.</description>
+    <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3283,17 +3284,17 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://github.com/psiinon/open-source-web-scanners</url>
-    <title>GitHub - psiinon/open-source-web-scanners: A list of open source web security scanners</title>
-    <description>A list of open source web security scanners. Contribute to psiinon/open-source-web-scanners development by creating an account on GitHub.</description>
+    <url>https://yogeshojha.github.io/rengine/</url>
+    <title>reNgine Documentation</title>
+    <tag>BugBounty</tag>
     <tag>Tips &amp; Tricks</tag>
     <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
-    <url>https://yogeshojha.github.io/rengine/</url>
-    <title>reNgine Documentation</title>
-    <tag>BugBounty</tag>
+    <url>https://github.com/psiinon/open-source-web-scanners</url>
+    <title>GitHub - psiinon/open-source-web-scanners: A list of open source web security scanners</title>
+    <description>A list of open source web security scanners. Contribute to psiinon/open-source-web-scanners development by creating an account on GitHub.</description>
     <tag>Tips &amp; Tricks</tag>
     <tag>Learn</tag>
   </link>
@@ -3315,19 +3316,9 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://gopivot.ing</url>
-    <title>About - Pivot Atlas</title>
-    <description>A pivoting handbook for cyber threat intel analysts</description>
-    <tag>Tips &amp; Tricks</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://github.com/keywa7/keywa7</url>
-    <title>GitHub - keywa7/keywa7: The tool that bypasses the firewall&#39;s Application Based Rules and lets you connect to anywhere, ANY IP, ANY PORT and ANY APPLICATION.</title>
-    <description>The tool that bypasses the firewall&#39;s Application Based Rules and lets you connect to anywhere, ANY IP, ANY PORT and ANY APPLICATION. - keywa7/keywa7</description>
-    <tag>Pentest</tag>
-    <tag>Tips &amp; Tricks</tag>
+    <url>https://github.com/securitytemplates/sectemplates</url>
+    <title>GitHub - securitytemplates/sectemplates: Open source templates you can use to bootstrap your security programs</title>
+    <description>Open source templates you can use to bootstrap your security programs - securitytemplates/sectemplates</description>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3341,9 +3332,10 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://github.com/securitytemplates/sectemplates</url>
-    <title>GitHub - securitytemplates/sectemplates: Open source templates you can use to bootstrap your security programs</title>
-    <description>Open source templates you can use to bootstrap your security programs - securitytemplates/sectemplates</description>
+    <url>https://gopivot.ing</url>
+    <title>About - Pivot Atlas</title>
+    <description>A pivoting handbook for cyber threat intel analysts</description>
+    <tag>Tips &amp; Tricks</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3366,6 +3358,15 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://github.com/keywa7/keywa7</url>
+    <title>GitHub - keywa7/keywa7: The tool that bypasses the firewall&#39;s Application Based Rules and lets you connect to anywhere, ANY IP, ANY PORT and ANY APPLICATION.</title>
+    <description>The tool that bypasses the firewall&#39;s Application Based Rules and lets you connect to anywhere, ANY IP, ANY PORT and ANY APPLICATION. - keywa7/keywa7</description>
+    <tag>Pentest</tag>
+    <tag>Tips &amp; Tricks</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://hacktodef.com/addressed-aws-defaults-risks-oidc-terraform-and-anonymous-to-administratoraccess</url>
     <title>Vercel Security Checkpoint</title>
     <tag>Pentest</tag>
@@ -3374,18 +3375,18 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://dagrz.com/writing/aws-security/hacking-github-aws-oidc/</url>
-    <title>Hacking Github AWS integrations again - Meanderings by Daniel Grzelak</title>
-    <tag>Pentest</tag>
-    <tag>GitHub</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://github.com/Trusted-AI/adversarial-robustness-toolbox</url>
     <title>GitHub - Trusted-AI/adversarial-robustness-toolbox: Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams</title>
     <description>Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams - Trusted-AI/adversarial-robustness-toolbox</description>
     <tag>Tips &amp; Tricks</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://dagrz.com/writing/aws-security/hacking-github-aws-oidc/</url>
+    <title>Hacking Github AWS integrations again - Meanderings by Daniel Grzelak</title>
+    <tag>Pentest</tag>
+    <tag>GitHub</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3404,18 +3405,18 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://learn.microsoft.com/en-us/security/operations/incident-response-playbook-compromised-malicious-app</url>
+    <title>Compromised and malicious applications investigation | Microsoft Learn</title>
+    <description>Learn how to investigate if one or more applications in a customer tenant are compromised.</description>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://medium.com/@dsmodi484/advanced-web-cache-poisoning-techniques-part-2-tools-methods-and-exploits-d35619d4bd75</url>
     <title>Advanced Web Cache Poisoning Techniques (Part 2): Tools, Methods, and Exploits | by cryptoshant🇮🇳 | Medium</title>
     <description>Hello hackers, Today in this writeup I am going to tell you some techniques to find web cache poisoning with their resources and all the things. This is the part-2, If you don’t know anything about…</description>
     <tag>Web</tag>
     <tag>Pentest</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://learn.microsoft.com/en-us/security/operations/incident-response-playbook-compromised-malicious-app</url>
-    <title>Compromised and malicious applications investigation | Microsoft Learn</title>
-    <description>Learn how to investigate if one or more applications in a customer tenant are compromised.</description>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3451,10 +3452,31 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://allelesecurity.com.br/introducao-a-exploracao-de-vulnerabilidades-no-kernel-linux-parte-2-acionamento-da-vulnerabilidade/</url>
+    <title>Allele Security Intelligence - Introdução À Exploração de Vulnerabilidades no Kernel Linux – Parte 2: Acionamento da Vulnerabilidade</title>
+    <description>No post anterior desta série, fizemos uma introdução sobre exploração de vulnerabilidades no kernel do Linux e passamos pelos passos necessários para montar o ambiente de modo a ser possível realizarmos os testes e análises para explorar a vulnerabilidade que escolhemos para nossos blog posts. Dando seguimento, neste post, construiremos um código que aciona a…</description>
+    <tag>Misc</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://www.monke.ie/p/monkes-guide-bug-bounty-methodology</url>
     <title>Monke&#39;s Guide to Bug Bounty Methodology</title>
     <tag>BugBounty</tag>
     <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://orca.security/resources/blog/iam-ape-iam-aws-policy-evaluator/</url>
+    <title>Just a moment...</title>
+    <tag>Cloud</tag>
+    <tag>Tips &amp; Tricks</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://cthfm.gitbook.io/cloud-threat-hunting-field-manual-azure/</url>
+    <title>Welcome | CTHFM: Azure</title>
+    <tag>Cloud</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3466,10 +3488,9 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://orca.security/resources/blog/iam-ape-iam-aws-policy-evaluator/</url>
-    <title>Just a moment...</title>
-    <tag>Cloud</tag>
-    <tag>Tips &amp; Tricks</tag>
+    <url>https://gamengen.github.io/</url>
+    <title>GameNGen</title>
+    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -3482,12 +3503,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://gamengen.github.io/</url>
-    <title>GameNGen</title>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://owickstrom.github.io/the-monospace-web/#the-basics</url>
     <title>The Monospace Web</title>
     <tag>Web</tag>
@@ -3495,23 +3510,18 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://allelesecurity.com.br/introducao-a-exploracao-de-vulnerabilidades-no-kernel-linux-parte-2-acionamento-da-vulnerabilidade/</url>
-    <title>Allele Security Intelligence - Introdução À Exploração de Vulnerabilidades no Kernel Linux – Parte 2: Acionamento da Vulnerabilidade</title>
-    <description>No post anterior desta série, fizemos uma introdução sobre exploração de vulnerabilidades no kernel do Linux e passamos pelos passos necessários para montar o ambiente de modo a ser possível realizarmos os testes e análises para explorar a vulnerabilidade que escolhemos para nossos blog posts. Dando seguimento, neste post, construiremos um código que aciona a…</description>
-    <tag>Misc</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://cthfm.gitbook.io/cloud-threat-hunting-field-manual-azure/</url>
-    <title>Welcome | CTHFM: Azure</title>
-    <tag>Cloud</tag>
+    <url>https://www.railly.dev/writing/how-i-study-math</url>
+    <title>My Math Academy Learning Workflow</title>
+    <description>Improving math learning with a mix of technology and effective study techniques</description>
     <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
-    <url>https://www.railly.dev/writing/how-i-study-math</url>
-    <title>My Math Academy Learning Workflow</title>
-    <description>Improving math learning with a mix of technology and effective study techniques</description>
+    <url>https://www.hackthebox.com/blog/new-AI-challenge-category</url>
+    <title>Unveil the secrets of AI/ML attacks to conquer Hack The Box’s new Challenge category</title>
+    <description>The adoption of AI and ML is steadily growing. See how this addition to our Challenge category aims to test users looking to exploit this turn-of-the-century-tech!</description>
+    <tag>Machine Learning</tag>
+    <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3589,11 +3599,18 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://www.hackthebox.com/blog/new-AI-challenge-category</url>
-    <title>Unveil the secrets of AI/ML attacks to conquer Hack The Box’s new Challenge category</title>
-    <description>The adoption of AI and ML is steadily growing. See how this addition to our Challenge category aims to test users looking to exploit this turn-of-the-century-tech!</description>
-    <tag>Machine Learning</tag>
-    <tag>Pentest</tag>
+    <url>https://dev.to/iamamash/devopsifying-a-go-web-application-an-end-to-end-guide-17bm</url>
+    <title>DevOpsifying a Go Web Application: An End-to-End Guide - DEV Community</title>
+    <description>Introduction In this post, I will guide you through the process of DevOpsifying a Go-based... Tagged with go, devops, aws, kubernetes.</description>
+    <tag>Web</tag>
+    <tag>Tips &amp; Tricks</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://gatariee.github.io/posts/the-art-of-exploiting-ad-from-linux/</url>
+    <title>Just a moment...</title>
+    <tag>Linux</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3604,35 +3621,9 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://dev.to/iamamash/devopsifying-a-go-web-application-an-end-to-end-guide-17bm</url>
-    <title>DevOpsifying a Go Web Application: An End-to-End Guide - DEV Community</title>
-    <description>Introduction In this post, I will guide you through the process of DevOpsifying a Go-based... Tagged with go, devops, aws, kubernetes.</description>
-    <tag>Web</tag>
-    <tag>Tips &amp; Tricks</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://ludus.cloud/</url>
     <title>Ludus</title>
     <description>Cyber Ranges</description>
-    <tag>Learn</tag>
-    <tag>Tips &amp; Tricks</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://www.infigo.is/en/insights/47/overriding-referrer-policy-and-abusing-endpoint-reuse-to-achieve-xs-leak-circumventing-insecure-csp-in-the-process/</url>
-    <title>Overriding Referrer-Policy and abusing endpoint-reuse to achieve XS leak, circumventing insecure CSP in the process</title>
-    <description>Infigo IS&#39; hacker, Mateo Hanzek, shows how it is possible to achieve Cross-Site (XS) leak with HTML injection depending on the Content-Security-Policy (CSP). He’ll explain the problem in detail, show how to exploit the vulnerability, propose mitigations, and go into future specification improvements. You just couldn’t ask for more.</description>
-    <tag>Pentest</tag>
-    <tag>Web</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://bugbountyhunting.com/</url>
-    <title>BugBountyHunting.com - A community-curated Resource for Bug Bounty Hunting</title>
-    <description>BugBountyHunting.com collects writeups, resources and content related to bug bounty hunting to help you access them quickly. It&#39;s goal is to help beginners starting in web application security to learn more about bug bounty hunting.</description>
     <tag>Learn</tag>
     <tag>Tips &amp; Tricks</tag>
   </link>
@@ -3646,11 +3637,11 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://medium.com/@RaunakGupta1922/mastering-idor-the-ultimate-resource-guide-84e44052f70c</url>
-    <title>All You Need to Master IDOR: A Complete Resource Guide | by Raunak Gupta Aka Biscuit | Medium</title>
-    <description>Unlock the secrets of Insecure Direct Object References (IDOR) with our comprehensive resource guide. This article covers everything from understanding IDOR vulnerabilities to practical exploitation techniques and prevention strategies. Whether you&#39;re a beginner or an expert, master IDOR</description>
-    <tag>Web</tag>
+    <url>https://www.infigo.is/en/insights/47/overriding-referrer-policy-and-abusing-endpoint-reuse-to-achieve-xs-leak-circumventing-insecure-csp-in-the-process/</url>
+    <title>Overriding Referrer-Policy and abusing endpoint-reuse to achieve XS leak, circumventing insecure CSP in the process</title>
+    <description>Infigo IS&#39; hacker, Mateo Hanzek, shows how it is possible to achieve Cross-Site (XS) leak with HTML injection depending on the Content-Security-Policy (CSP). He’ll explain the problem in detail, show how to exploit the vulnerability, propose mitigations, and go into future specification improvements. You just couldn’t ask for more.</description>
     <tag>Pentest</tag>
+    <tag>Web</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3666,6 +3657,15 @@
     <title>Writeups Bug Bounty hackerone - NoRed0x</title>
     <description>Information Disclosure</description>
     <tag>BugBounty</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://medium.com/@RaunakGupta1922/mastering-idor-the-ultimate-resource-guide-84e44052f70c</url>
+    <title>All You Need to Master IDOR: A Complete Resource Guide | by Raunak Gupta Aka Biscuit | Medium</title>
+    <description>Unlock the secrets of Insecure Direct Object References (IDOR) with our comprehensive resource guide. This article covers everything from understanding IDOR vulnerabilities to practical exploitation techniques and prevention strategies. Whether you&#39;re a beginner or an expert, master IDOR</description>
+    <tag>Web</tag>
+    <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3703,6 +3703,13 @@
   </link>
   <link>
     <id>0</id>
+    <url>http://docs.ell.so/</url>
+    <title>Introduction | ell documentation</title>
+    <description>ell is a lightweight prompt engineering library treating prompts as functions. It provides tools for versioning, monitoring, and visualization of language model programs.</description>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://zolutal.github.io/corctf-trojan-turtles/</url>
     <title>corCTF 2024: trojan-turtles writeup - zolutal’s blog</title>
     <description>This year I played corCTF with Shellphish, and we did pretty well – placing 6th! I worked on two challenges: ‘trojan-turtles’ and ‘its-just-a-dos-bug-bro’, in the end we solved both of them and both only had two solves by the end.</description>
@@ -3724,13 +3731,6 @@
     <title>Courses - Securing Hardware</title>
     <description>To make it easy to write documentation in plain Markdown, most UI components are styled using Markdown elements with few additional CSS classes.</description>
     <tag>Exploit</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://gatariee.github.io/posts/the-art-of-exploiting-ad-from-linux/</url>
-    <title>404 Page not found | gatari&#39;s blog</title>
-    <tag>Linux</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3759,10 +3759,11 @@
   </link>
   <link>
     <id>0</id>
-    <url>http://docs.ell.so/</url>
-    <title>Introduction | ell documentation</title>
-    <description>ell is a lightweight prompt engineering library treating prompts as functions. It provides tools for versioning, monitoring, and visualization of language model programs.</description>
+    <url>https://bugbountyhunting.com/</url>
+    <title>BugBountyHunting.com - A community-curated Resource for Bug Bounty Hunting</title>
+    <description>BugBountyHunting.com collects writeups, resources and content related to bug bounty hunting to help you access them quickly. It&#39;s goal is to help beginners starting in web application security to learn more about bug bounty hunting.</description>
     <tag>Learn</tag>
+    <tag>Tips &amp; Tricks</tag>
   </link>
   <link>
     <id>0</id>
@@ -3783,6 +3784,14 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://github.com/xbow-engineering/validation-benchmarks</url>
+    <title>GitHub - xbow-engineering/validation-benchmarks: XBOW Validation Benchmarks</title>
+    <description>XBOW Validation Benchmarks. Contribute to xbow-engineering/validation-benchmarks development by creating an account on GitHub.</description>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://aszx87410.github.io/beyond-xss/en/</url>
     <title>About This Series | Beyond XSS</title>
     <description>As a software engineer, you must be familiar with information security. In your work projects, you may have gone through security audits, including static code scanning, vulnerability scanning, or penetration testing. You may have even done more comprehensive red team exercises. Apart from that, you may have heard of OWASP and have a general idea of what OWASP Top 10 includes and what common security ...</description>
@@ -3792,10 +3801,11 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://github.com/xbow-engineering/validation-benchmarks</url>
-    <title>GitHub - xbow-engineering/validation-benchmarks: XBOW Validation Benchmarks</title>
-    <description>XBOW Validation Benchmarks. Contribute to xbow-engineering/validation-benchmarks development by creating an account on GitHub.</description>
-    <tag>Pentest</tag>
+    <url>https://www.armosec.io/blog/seccomp-internals-part-1/</url>
+    <title>Seccomp: Enhance Security for Linux Applications</title>
+    <description>In this blog, we will explore the internals of seccomp, including its architecture, key concepts, and practical applications</description>
+    <tag>K8s</tag>
+    <tag>Linux</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3803,6 +3813,14 @@
     <url>https://www.neuronpedia.org/</url>
     <title>Neuronpedia</title>
     <description>Open Interpretability Platform</description>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/</url>
+    <title>A few notes on AWS Nitro Enclaves: Attack surface - The Trail of Bits Blog</title>
+    <tag>Pentest</tag>
+    <tag>K8s</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3825,23 +3843,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/</url>
-    <title>A few notes on AWS Nitro Enclaves: Attack surface - The Trail of Bits Blog</title>
-    <tag>Pentest</tag>
-    <tag>K8s</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://www.armosec.io/blog/seccomp-internals-part-1/</url>
-    <title>Seccomp: Enhance Security for Linux Applications</title>
-    <description>In this blog, we will explore the internals of seccomp, including its architecture, key concepts, and practical applications</description>
-    <tag>K8s</tag>
-    <tag>Linux</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://enigma-agent.github.io/</url>
     <title>EnIGMA | Enhanced Interactive Generative Model Agent for CTF Challenges</title>
     <description>This is the landing and main page of EnIGMA</description>
@@ -3857,19 +3858,19 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://alfiecg.uk/2024/09/24/Kernel-exploit.html</url>
+    <title>A step-by-step guide to writing an iOS kernel exploit | Alfie CG</title>
+    <description>Introduction Memory management in XNU Page tables Physical use-after-free Exploitation strategy Heap spray Kernel memory read/write Conclusion Bonus: arm64e, PPL and SPTM</description>
+    <tag>Exploit</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://center-for-threat-informed-defense.github.io/attack-flow/#</url>
     <title>Attack Flow v2.2.7 — Attack Flow v2.2.7 documentation</title>
     <tag>Pentest</tag>
     <tag>Redteam</tag>
     <tag>Tips &amp; Tricks</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://alfiecg.uk/2024/09/24/Kernel-exploit.html</url>
-    <title>A step-by-step guide to writing an iOS kernel exploit | Alfie CG</title>
-    <description>Introduction Memory management in XNU Page tables Physical use-after-free Exploitation strategy Heap spray Kernel memory read/write Conclusion Bonus: arm64e, PPL and SPTM</description>
-    <tag>Exploit</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3884,18 +3885,18 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://docs.ebpf.io/</url>
-    <title>eBPF Docs</title>
-    <description>Landing page of the eBPF docs, providing a quick overview of the main topics and links to the most important pages. These docs aim to provide a knowledge base for all there is to know about eBPF with a focus on developers.</description>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://github.com/Pepelux/sippts/tree/v4.1.0</url>
     <title>GitHub - Pepelux/sippts at v4.1.0</title>
     <description>Set of tools to audit SIP based VoIP Systems. Contribute to Pepelux/sippts development by creating an account on GitHub.</description>
     <tag>Pentest</tag>
     <tag>Tips &amp; Tricks</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://docs.ebpf.io/</url>
+    <title>eBPF Docs</title>
+    <description>Landing page of the eBPF docs, providing a quick overview of the main topics and links to the most important pages. These docs aim to provide a knowledge base for all there is to know about eBPF with a focus on developers.</description>
+    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -3923,13 +3924,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://lolesxi-project.github.io/LOLESXi/#</url>
-    <title>LOLESXi</title>
-    <tag>Redteam</tag>
-    <tag>Tips &amp; Tricks</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://outpost24.com/blog/exploiting-permissive-cors-configurations/</url>
     <title>CORS vulnerabilities: Weaponizing permissive CORS configurations</title>
     <description>Find out whether you’re underestimating Cross-Origin Resource Sharing (CORS) vulnerabilities in our latest research.</description>
@@ -3947,8 +3941,33 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://lolesxi-project.github.io/LOLESXi/#</url>
+    <title>LOLESXi</title>
+    <tag>Redteam</tag>
+    <tag>Tips &amp; Tricks</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://www.reversemode.com/2024/10/a-practical-analysis-of-cyber-physical.html</url>
     <title>A Practical Analysis of Cyber-Physical Attacks Against Nuclear Reactors</title>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://labs.withsecure.com/tools/encap-attack</url>
+    <title>encap-attack | WithSecure™ Labs</title>
+    <description>A tool to break into encapsulated networks by exploiting absent overlaps between host and overlay firewalls in Kubernetes deployments.</description>
+    <tag>K8s</tag>
+    <tag>Pentest</tag>
+    <tag>Tips &amp; Tricks</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://infosecwriteups.com/understanding-inconsistencies-in-ip-address-classification-across-programming-languages-19b2645b10a9</url>
+    <title>Understanding Inconsistencies in IP Address Classification Across Programming Languages | by sockpuppets | InfoSec Write-ups</title>
+    <description>As a security researcher, I’ve been analyzing IP address classification behaviors across various programming languages. Recently, I noticed some intriguing inconsistencies, particularly concerning…</description>
+    <tag>Pentest</tag>
+    <tag>Web</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -3968,21 +3987,12 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://infosecwriteups.com/understanding-inconsistencies-in-ip-address-classification-across-programming-languages-19b2645b10a9</url>
-    <title>Understanding Inconsistencies in IP Address Classification Across Programming Languages | by sockpuppets | InfoSec Write-ups</title>
-    <description>As a security researcher, I’ve been analyzing IP address classification behaviors across various programming languages. Recently, I noticed some intriguing inconsistencies, particularly concerning…</description>
-    <tag>Pentest</tag>
+    <url>https://medium.com/@0xAwali/http-parameter-pollution-in-2024-32ec1b810f89</url>
+    <title>HTTP Parameter Pollution in 2024 ! | by Mahmoud M. Awali | Medium</title>
+    <description>Hi after going through all the Black Hat and DEFCON web security researches in 2024 , I noticed that the easiest way to break web apps is by understanding how components handle your requests so in…</description>
     <tag>Web</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://labs.withsecure.com/tools/encap-attack</url>
-    <title>encap-attack | WithSecure™ Labs</title>
-    <description>A tool to break into encapsulated networks by exploiting absent overlaps between host and overlay firewalls in Kubernetes deployments.</description>
-    <tag>K8s</tag>
     <tag>Pentest</tag>
-    <tag>Tips &amp; Tricks</tag>
+    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -4003,32 +4013,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://appsecexplained.gitbook.io/appsecexplained/</url>
-    <title>Index &lt; START HERE | AppSecExplained</title>
-    <tag>Web</tag>
-    <tag>Pentest</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://medium.com/@0xAwali/http-parameter-pollution-in-2024-32ec1b810f89</url>
-    <title>HTTP Parameter Pollution in 2024 ! | by Mahmoud M. Awali | Medium</title>
-    <description>Hi after going through all the Black Hat and DEFCON web security researches in 2024 , I noticed that the easiest way to break web apps is by understanding how components handle your requests so in…</description>
-    <tag>Web</tag>
-    <tag>Pentest</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://blog.intigriti.com/intigriti-news/idor-a-complete-guide-to-exploiting-advanced-idor-vulnerabilities</url>
-    <title>IDOR: A complete guide to exploiting advanced IDOR vulnerabilities</title>
-    <description>IDOR —short for insecure direct object reference— vulnerabilities are one of the most commonly found web security vulnerabilities in modern web applications and APIs. It is no wonder that they are oft...</description>
-    <tag>Web</tag>
-    <tag>Pentest</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security</url>
     <title>Page not found - HackTricks Cloud</title>
     <tag>K8s</tag>
@@ -4045,17 +4029,34 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://gbounty.bountysecurity.ai/</url>
-    <title>GBounty Usage Manual | GBounty</title>
+    <url>https://blog.intigriti.com/intigriti-news/idor-a-complete-guide-to-exploiting-advanced-idor-vulnerabilities</url>
+    <title>IDOR: A complete guide to exploiting advanced IDOR vulnerabilities</title>
+    <description>IDOR —short for insecure direct object reference— vulnerabilities are one of the most commonly found web security vulnerabilities in modern web applications and APIs. It is no wonder that they are oft...</description>
+    <tag>Web</tag>
     <tag>Pentest</tag>
-    <tag>BugBounty</tag>
-    <tag>Tips &amp; Tricks</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://appsecexplained.gitbook.io/appsecexplained/</url>
+    <title>Index &lt; START HERE | AppSecExplained</title>
+    <tag>Web</tag>
+    <tag>Pentest</tag>
+    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
     <url>https://dreadnode.notion.site</url>
     <title>Your connected workspace for wiki, docs &amp; projects | Notion</title>
     <description>A new tool that blends your everyday work apps into one. It&#39;s the all-in-one workspace for you and your team</description>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://bughunters.google.com/blog/5679863572070400/protecting-large-language-models</url>
+    <title>Blog: Protecting Large Language Models</title>
+    <description>This blog post describes Google&#39;s approach to vulnerability research on our Cloud AI Platform, Vertex AI. We&#39;re sharing this so that external researchers can learn from our work and to help them discover new vulnerabilities.</description>
+    <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -4096,11 +4097,11 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://bughunters.google.com/blog/5679863572070400/protecting-large-language-models</url>
-    <title>Blog: Protecting Large Language Models</title>
-    <description>This blog post describes Google&#39;s approach to vulnerability research on our Cloud AI Platform, Vertex AI. We&#39;re sharing this so that external researchers can learn from our work and to help them discover new vulnerabilities.</description>
+    <url>https://gbounty.bountysecurity.ai/</url>
+    <title>GBounty Usage Manual | GBounty</title>
     <tag>Pentest</tag>
-    <tag>Learn</tag>
+    <tag>BugBounty</tag>
+    <tag>Tips &amp; Tricks</tag>
   </link>
   <link>
     <id>0</id>
@@ -4120,14 +4121,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://0xdf.gitlab.io/cheatsheets/offsec</url>
-    <title>OffSec Exam HTB Lists | 0xdf hacks stuff</title>
-    <description>TJNull maintains a list of good HackTheBox and other machines to play to prepare for various OffSec exams, including OSCP, OSWE, and OSEP. This page will keep up with that list and show my writeups associated with those boxes. For each of these certifications, there’s a “like” list that includes boxes that are similar in skills and difficulty to the challenges you will encounter in ...</description>
-    <tag>Pentest</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://www.justhacking.com/</url>
     <title>Homepage - Just Hacking Training (JHT)</title>
     <description>Just Hacking provides &#34;Focused Technical Training for All Levels&#34; with 4 types of affordable, hands-on options by John Hammond &amp; All-Stars.</description>
@@ -4136,10 +4129,10 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://ading.dev/blog/posts/chrome_sandbox_escape.html</url>
-    <title>Escaping the Chrome Sandbox Through DevTools</title>
-    <description>This blog post details how I found CVE-2024-6778 and CVE-2024-5836, which are vulnerabilities within the Chromium web browser which allowed for a sandbox escape from a browser extension.</description>
-    <tag>Web</tag>
+    <url>https://0xdf.gitlab.io/cheatsheets/offsec</url>
+    <title>OffSec Exam HTB Lists | 0xdf hacks stuff</title>
+    <description>TJNull maintains a list of good HackTheBox and other machines to play to prepare for various OffSec exams, including OSCP, OSWE, and OSEP. This page will keep up with that list and show my writeups associated with those boxes. For each of these certifications, there’s a “like” list that includes boxes that are similar in skills and difficulty to the challenges you will encounter in ...</description>
+    <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -4150,6 +4143,14 @@
     <tag>API</tag>
     <tag>Pentest</tag>
     <tag>Tips &amp; Tricks</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://ading.dev/blog/posts/chrome_sandbox_escape.html</url>
+    <title>Escaping the Chrome Sandbox Through DevTools</title>
+    <description>This blog post details how I found CVE-2024-6778 and CVE-2024-5836, which are vulnerabilities within the Chromium web browser which allowed for a sandbox escape from a browser extension.</description>
+    <tag>Web</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -4265,17 +4266,17 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://infosecwriteups.com/exploring-jailbreak-attacks-understanding-llm-vulnerabilities-and-the-challenges-of-detection-and-5b6cd35451a0</url>
-    <title>Exploring Jailbreak Attacks: Understanding LLM Vulnerabilities and the Challenges of Detection and Defense | by Yani | InfoSec Write-ups</title>
-    <description>The recent rise in jailbreaking methods has revealed the vulnerability of Large Language Models (LLMs) to malicious inputs. Jailbreaking differs from prompt injection attacks, although the terms are…</description>
-    <tag>Pentest</tag>
+    <url>https://docs.anthropic.com/en/release-notes/system-prompts</url>
+    <title>System Prompts - Anthropic</title>
+    <description>See updates to the core system prompts on [Claude.ai](https://www.claude.ai) and the Claude [iOS](http://anthropic.com/ios) and [Android](http://anthropic.com/android) apps.</description>
     <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
-    <url>https://docs.anthropic.com/en/release-notes/system-prompts</url>
-    <title>System Prompts - Anthropic</title>
-    <description>See updates to the core system prompts on [Claude.ai](https://www.claude.ai) and the Claude [iOS](http://anthropic.com/ios) and [Android](http://anthropic.com/android) apps.</description>
+    <url>https://infosecwriteups.com/exploring-jailbreak-attacks-understanding-llm-vulnerabilities-and-the-challenges-of-detection-and-5b6cd35451a0</url>
+    <title>Exploring Jailbreak Attacks: Understanding LLM Vulnerabilities and the Challenges of Detection and Defense | by Yani | InfoSec Write-ups</title>
+    <description>The recent rise in jailbreaking methods has revealed the vulnerability of Large Language Models (LLMs) to malicious inputs. Jailbreaking differs from prompt injection attacks, although the terms are…</description>
+    <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -4317,8 +4318,11 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://towardsdatascience.com/drawing-the-transformer-network-from-scratch-part-1-9269ed9a2c5e</url>
-    <title>Page not found | Towards Data Science</title>
+    <url>https://sallam.gitbook.io/sec-88/web-appsec</url>
+    <title>Web-AppSec | Sec-88</title>
+    <description>If you enjoy what I do, please support me Buy Me Ko-fi! https://ko-fi.com/h0tak88r</description>
+    <tag>Web</tag>
+    <tag>Pentest</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -4332,18 +4336,23 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://sallam.gitbook.io/sec-88/web-appsec</url>
-    <title>Web-AppSec | Sec-88</title>
-    <description>If you enjoy what I do, please support me Buy Me Ko-fi! https://ko-fi.com/h0tak88r</description>
-    <tag>Web</tag>
-    <tag>Pentest</tag>
+    <url>https://protectai.com/threat-research/2024-october-vulnerability-report</url>
+    <title>Protect AI&#39;s October 2024 Vulnerability Report</title>
+    <description>At Protect AI we are taking a proactive approach to identifying and addressing security risks in AI systems, to provide the world with critical intelligence on vulnerabilities and how to fix them.</description>
     <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
-    <url>https://protectai.com/threat-research/2024-october-vulnerability-report</url>
-    <title>Protect AI&#39;s October 2024 Vulnerability Report</title>
-    <description>At Protect AI we are taking a proactive approach to identifying and addressing security risks in AI systems, to provide the world with critical intelligence on vulnerabilities and how to fix them.</description>
+    <url>https://towardsdatascience.com/drawing-the-transformer-network-from-scratch-part-1-9269ed9a2c5e</url>
+    <title>Page not found | Towards Data Science</title>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://dmcxblue.gitbook.io/red-team-notes-2-0/</url>
+    <title>Introduction | Red Team Notes 2.0</title>
+    <description>Red Team Notes 2.0</description>
+    <tag>Redteam</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -4354,14 +4363,6 @@
     <tag>Web</tag>
     <tag>Tips &amp; Tricks</tag>
     <tag>Pentest</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://dmcxblue.gitbook.io/red-team-notes-2-0/</url>
-    <title>Introduction | Red Team Notes 2.0</title>
-    <description>Red Team Notes 2.0</description>
-    <tag>Redteam</tag>
-    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -4395,16 +4396,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://xalgord.medium.com/comprehensive-bug-bounty-hunting-checklist-2024-edition-4abb3a9cbe66</url>
-    <title>Comprehensive Bug Bounty Hunting Methodology (2024 Edition) | by Krishna Kumar | InfoSec Write-ups</title>
-    <description>Welcome to your complete bug bounty guide! 🕵️ This is designed for beginners, but even if you’re experienced, there’s always something new to learn or tools to discover. With this checklist, you’ll…</description>
-    <tag>Web</tag>
-    <tag>Pentest</tag>
-    <tag>BugBounty</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://unit42.paloaltonetworks.com/privilege-escalation-llm-model-exfil-vertex-ai/</url>
     <title>ModeLeak: Privilege Escalation to LLM Model Exfiltration in Vertex AI</title>
     <description>New research reveals two vulnerabilities in Google&#39;s Vertex AI that may lead to privilege escalation or data theft through custom jobs or malicious models. New research reveals two vulnerabilities in Google&#39;s Vertex AI that may lead to privilege escalation or data theft through custom jobs or malicious models.</description>
@@ -4414,10 +4405,12 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://cloud.google.com/blog/topics/threat-intelligence/ai-enhancing-your-adversarial-emulation/</url>
-    <title>AI Enhancing Your Adversarial Emulation | Google Cloud Blog</title>
-    <description>Learn how Mandiant Red Team is using Gemini and LLMs for adversarial emulation and defense.</description>
-    <tag>Redteam</tag>
+    <url>https://xalgord.medium.com/comprehensive-bug-bounty-hunting-checklist-2024-edition-4abb3a9cbe66</url>
+    <title>Comprehensive Bug Bounty Hunting Methodology (2024 Edition) | by Krishna Kumar | InfoSec Write-ups</title>
+    <description>Welcome to your complete bug bounty guide! 🕵️ This is designed for beginners, but even if you’re experienced, there’s always something new to learn or tools to discover. With this checklist, you’ll…</description>
+    <tag>Web</tag>
+    <tag>Pentest</tag>
+    <tag>BugBounty</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -4433,14 +4426,6 @@
     <url>https://directory.llmstxt.cloud/</url>
     <title>llms.txt directory</title>
     <description>Discover websites embracing the llms.txt standard, designed to provide LLM-friendly content and guidance.</description>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://www.scip.ch/en/?labs.20241114</url>
-    <title>I want a &#34;Red Teaming&#34; - Why terminology matters</title>
-    <description>We refer to testing the security of multiple components or the infrastructure with an open scope as an assessment. We differentiate assessments by approach, interaction with the customer and maturity of the defence.</description>
-    <tag>Redteam</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -4467,12 +4452,29 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://www.scip.ch/en/?labs.20241114</url>
+    <title>I want a &#34;Red Teaming&#34; - Why terminology matters</title>
+    <description>We refer to testing the security of multiple components or the infrastructure with an open scope as an assessment. We differentiate assessments by approach, interaction with the customer and maturity of the defence.</description>
+    <tag>Redteam</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://learn.justhacking.com</url>
     <title>Courses</title>
     <description>Browse our courses and exams</description>
     <tag>Web</tag>
     <tag>Pentest</tag>
     <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://awseye.com/</url>
+    <title>Awseye - See Inside AWS Accounts</title>
+    <description>Awseye is an open-source intelligence (OSINT) and reconnaissance service tracking publicly accessible AWS data. Discover known and exposed AWS resources to secure your cloud environment.</description>
+    <tag>Cloud</tag>
+    <tag>Pentest</tag>
+    <tag>Tips &amp; Tricks</tag>
   </link>
   <link>
     <id>0</id>
@@ -4498,18 +4500,17 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://awseye.com/</url>
-    <title>Awseye - See Inside AWS Accounts</title>
-    <description>Awseye is an open-source intelligence (OSINT) and reconnaissance service tracking publicly accessible AWS data. Discover known and exposed AWS resources to secure your cloud environment.</description>
-    <tag>Cloud</tag>
-    <tag>Pentest</tag>
-    <tag>Tips &amp; Tricks</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://lilianweng.github.io/posts/2024-11-28-reward-hacking/</url>
     <title>Reward Hacking in Reinforcement Learning | Lil&#39;Log</title>
     <description>Reward hacking occurs when a reinforcement learning (RL) agent exploits flaws or ambiguities in the reward function to achieve high rewards, without genuinely learning or completing the intended task. Reward hacking exists because RL environments are often imperfect, and it is fundamentally challenging to accurately specify a reward function. With the rise of language models generalizing to a broad spectrum of tasks and RLHF becomes ...</description>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://cloud.google.com/blog/topics/threat-intelligence/ai-enhancing-your-adversarial-emulation/</url>
+    <title>AI Enhancing Your Adversarial Emulation | Google Cloud Blog</title>
+    <description>Learn how Mandiant Red Team is using Gemini and LLMs for adversarial emulation and defense.</description>
+    <tag>Redteam</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -4523,19 +4524,19 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://github.com/BojackThePillager/Slackhound</url>
-    <title>GitHub - BojackThePillager/Slackhound: Slackhound allows red and blue teams to perform fast reconnaissance on Slack workspaces/organizations to quickly search user profiles, locations, files, and other objects.</title>
-    <description>Slackhound allows red and blue teams to perform fast reconnaissance on Slack workspaces/organizations to quickly search user profiles, locations, files, and other objects. - GitHub - BojackThePillager/Slackhound: Slackhound allows red and blue teams to perform fast reconnaissance on Slack workspaces/organizations to quickly search user profiles, locations, files, and other objects.</description>
-    <tag>Redteam</tag>
-    <tag>Tips &amp; Tricks</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://vulnerable.codes/</url>
     <title>Vulnerable Codes - Security Code Review Platform</title>
     <description>Master secure coding through hands-on code review challenges</description>
     <tag>Pentest</tag>
     <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://github.com/BojackThePillager/Slackhound</url>
+    <title>GitHub - BojackThePillager/Slackhound: Slackhound allows red and blue teams to perform fast reconnaissance on Slack workspaces/organizations to quickly search user profiles, locations, files, and other objects.</title>
+    <description>Slackhound allows red and blue teams to perform fast reconnaissance on Slack workspaces/organizations to quickly search user profiles, locations, files, and other objects. - GitHub - BojackThePillager/Slackhound: Slackhound allows red and blue teams to perform fast reconnaissance on Slack workspaces/organizations to quickly search user profiles, locations, files, and other objects.</description>
+    <tag>Redteam</tag>
+    <tag>Tips &amp; Tricks</tag>
   </link>
   <link>
     <id>0</id>
@@ -4569,6 +4570,13 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://shreyaschavhan.notion.site/Exploratory-Software-Testing-Tips-Tricks-Tours-and-Techniques-to-Guide-Test-Design-13ca53e4311980abb6e0f6dc0215bf33</url>
+    <title>Your connected workspace for wiki, docs &amp; projects | Notion</title>
+    <description>A new tool that blends your everyday work apps into one. It&#39;s the all-in-one workspace for you and your team</description>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://ml-resources.vercel.app/</url>
     <title>ML Resources</title>
     <description>A comprehensive collection of machine learning resources</description>
@@ -4586,13 +4594,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://www.latent.space/p/2025-papers</url>
-    <title>The 2025 AI Engineering Reading List - Latent.Space</title>
-    <description>We picked 50 paper/models/blogs across 10 fields in AI Eng: LLMs, Benchmarks, Prompting, RAG, Agents, CodeGen, Vision, Voice, Diffusion, Finetuning. If you&#39;re starting from scratch, start here.</description>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://goyalpramod.github.io/blogs/Transformers_laid_out/</url>
     <title>Transformers Laid Out | Pramod’s Blog</title>
     <description>I have encountered that there are mainly three types of blogs/videos/tutorials talking about transformers</description>
@@ -4600,16 +4601,16 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://shreyaschavhan.notion.site/Exploratory-Software-Testing-Tips-Tricks-Tours-and-Techniques-to-Guide-Test-Design-13ca53e4311980abb6e0f6dc0215bf33</url>
-    <title>Your connected workspace for wiki, docs &amp; projects | Notion</title>
-    <description>A new tool that blends your everyday work apps into one. It&#39;s the all-in-one workspace for you and your team</description>
+    <url>https://poloclub.github.io/transformer-explainer/</url>
+    <title>Transformer Explainer: LLM Transformer Model Visually Explained</title>
+    <description>An interactive visualization tool showing you how transformer models work in large language models (LLM) like GPT.</description>
     <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
-    <url>https://poloclub.github.io/transformer-explainer/</url>
-    <title>Transformer Explainer: LLM Transformer Model Visually Explained</title>
-    <description>An interactive visualization tool showing you how transformer models work in large language models (LLM) like GPT.</description>
+    <url>https://www.latent.space/p/2025-papers</url>
+    <title>The 2025 AI Engineering Reading List - Latent.Space</title>
+    <description>We picked 50 paper/models/blogs across 10 fields in AI Eng: LLMs, Benchmarks, Prompting, RAG, Agents, CodeGen, Vision, Voice, Diffusion, Finetuning. If you&#39;re starting from scratch, start here.</description>
     <tag>Learn</tag>
   </link>
   <link>
@@ -4632,16 +4633,16 @@
   </link>
   <link>
     <id>0</id>
+    <url>https://qiita.com/hEnka/items/cc5fd872eb0bf7cd3abc</url>
+    <title>[Genesis] 1時間で4脚ロボットの強化学習の環境構築 #機械学習 - Qiita</title>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
     <url>https://docs.all-hands.dev/</url>
     <title>OpenHands | OpenHands</title>
     <description>Code Less, Make More</description>
     <tag>Misc</tag>
-  </link>
-  <link>
-    <id>0</id>
-    <url>https://qiita.com/hEnka/items/cc5fd872eb0bf7cd3abc</url>
-    <title>[Genesis] 1時間で4脚ロボットの強化学習の環境構築 #機械学習 - Qiita</title>
-    <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
@@ -4658,16 +4659,16 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://airisk.mit.edu/</url>
-    <title>The AI Risk Repository</title>
-    <description>A comprehensive living database of over 1000 AI risks categorized by their cause and risk domain</description>
+    <url>https://naklecha.notion.site/a-reinforcement-learning-guide</url>
+    <title>Your connected workspace for wiki, docs &amp; projects | Notion</title>
+    <description>A new tool that blends your everyday work apps into one. It&#39;s the all-in-one workspace for you and your team</description>
     <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
-    <url>https://naklecha.notion.site/a-reinforcement-learning-guide</url>
-    <title>Your connected workspace for wiki, docs &amp; projects | Notion</title>
-    <description>A new tool that blends your everyday work apps into one. It&#39;s the all-in-one workspace for you and your team</description>
+    <url>https://airisk.mit.edu/</url>
+    <title>The AI Risk Repository</title>
+    <description>A comprehensive living database of over 1000 AI risks categorized by their cause and risk domain</description>
     <tag>Learn</tag>
   </link>
   <link>
@@ -4722,13 +4723,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://huggingface.co/blog/open-r1</url>
-    <title>Open-R1: a fully open reproduction of DeepSeek-R1</title>
-    <description>We’re on a journey to advance and democratize artificial intelligence through open source and open science.</description>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://www.microsoft.com/en-us/security/blog/2025/01/13/3-takeaways-from-red-teaming-100-generative-ai-products/</url>
     <title>3 takeaways from red teaming 100 generative AI products | Microsoft Security Blog</title>
     <description>The growing sophistication of AI systems and Microsoft’s increasing investment in AI have made red teaming more important than ever. Learn more.</description>
@@ -4737,15 +4731,15 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html</url>
-    <title>Not Acceptable!</title>
+    <url>https://huggingface.co/blog/open-r1</url>
+    <title>Open-R1: a fully open reproduction of DeepSeek-R1</title>
+    <description>We’re on a journey to advance and democratize artificial intelligence through open source and open science.</description>
     <tag>Learn</tag>
   </link>
   <link>
     <id>0</id>
-    <url>https://blog.huntr.com/hunting-vulnerabilities-in-machine-learning-model-file-formats</url>
-    <title>How to Hunt Vulnerabilities in Machine Learning Model File Formats</title>
-    <description>Discover how to identify and exploit vulnerabilities in machine learning model file formats like GGUF, Keras, and ONNX.</description>
+    <url>https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html</url>
+    <title>Not Acceptable!</title>
     <tag>Learn</tag>
   </link>
   <link>
@@ -4771,13 +4765,6 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://lolc2.github.io/</url>
-    <title>LOLC2</title>
-    <tag>Redteam</tag>
-    <tag>Learn</tag>
-  </link>
-  <link>
-    <id>0</id>
     <url>https://engineering.mercari.com/en/blog/entry/20241217-github-branch-protection/</url>
     <title>How to bypass GitHub&amp;#8217;s Branch Protection | Mercari Engineering</title>
     <description>IntroductionHey everyone, my name is @iso and I’m working on the Platform Security Team at Mercari.One of the major func</description>
@@ -4786,11 +4773,16 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://www.binarysecurity.no/posts/2025/01/finding-ssrfs-in-devops</url>
-    <title>Finding SSRFs in Azure DevOps</title>
-    <description>Binary Security found three SSRF vulnerabilities in Azure DevOps that we reported to Microsoft. This blog post outlines the way we identified these vulnerabilities, and demonstrates exploitation techniques using DNS rebinding and CRLF injection.</description>
-    <tag>Pentest</tag>
-    <tag>Web</tag>
+    <url>https://lolc2.github.io/</url>
+    <title>LOLC2</title>
+    <tag>Redteam</tag>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://blog.huntr.com/hunting-vulnerabilities-in-machine-learning-model-file-formats</url>
+    <title>How to Hunt Vulnerabilities in Machine Learning Model File Formats</title>
+    <description>Discover how to identify and exploit vulnerabilities in machine learning model file formats like GGUF, Keras, and ONNX.</description>
     <tag>Learn</tag>
   </link>
   <link>
@@ -4816,10 +4808,11 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence</url>
-    <title>Go Supply Chain Attack: Malicious Package Exploits Go Module...</title>
-    <description>Socket researchers uncovered a backdoored typosquat of BoltDB in the Go ecosystem, exploiting Go Module Proxy caching to persist undetected for years.</description>
-    <tag>Redteam</tag>
+    <url>https://www.binarysecurity.no/posts/2025/01/finding-ssrfs-in-devops</url>
+    <title>Finding SSRFs in Azure DevOps</title>
+    <description>Binary Security found three SSRF vulnerabilities in Azure DevOps that we reported to Microsoft. This blog post outlines the way we identified these vulnerabilities, and demonstrates exploitation techniques using DNS rebinding and CRLF injection.</description>
+    <tag>Pentest</tag>
+    <tag>Web</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -4839,10 +4832,8 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://klecko.github.io/posts/selinux-bypasses/</url>
-    <title>SELinux bypasses | Klecko Blog</title>
-    <description>This post aims at giving an overview of what SELinux is, how it is implemented, and how to bypass it, from the point of view of Android kernel exploitation.</description>
-    <tag>Linux</tag>
+    <url>https://labs.jumpsec.com/bring-your-own-trusted-binary-byotb-bsides-edition/</url>
+    <title>Bring Your Own Trusted Binary (BYOTB) - BSides Edition | JUMPSEC LABS</title>
     <tag>Redteam</tag>
     <tag>Learn</tag>
   </link>
@@ -4851,6 +4842,23 @@
     <url>https://huggingface.co/learn/nlp-course/en/chapter12/1</url>
     <title>The Reasoning Course - Hugging Face NLP Course</title>
     <description>We’re on a journey to advance and democratize artificial intelligence through open source and open science.</description>
+    <tag>Learn</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://retr0.blog/blog/llama-rpc-rce</url>
+    <title>Retr0&#39;s Register</title>
+    <description>Retr0&#39;s Threat Research</description>
+    <tag>Learn</tag>
+    <tag>Exploit</tag>
+  </link>
+  <link>
+    <id>0</id>
+    <url>https://klecko.github.io/posts/selinux-bypasses/</url>
+    <title>SELinux bypasses | Klecko Blog</title>
+    <description>This post aims at giving an overview of what SELinux is, how it is implemented, and how to bypass it, from the point of view of Android kernel exploitation.</description>
+    <tag>Linux</tag>
+    <tag>Redteam</tag>
     <tag>Learn</tag>
   </link>
   <link>
@@ -4874,9 +4882,8 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://labs.jumpsec.com/bring-your-own-trusted-binary-byotb-bsides-edition/</url>
-    <title>Bring Your Own Trusted Binary (BYOTB) - BSides Edition | JUMPSEC LABS</title>
-    <tag>Redteam</tag>
+    <url>https://www.k-a.in/llm5.html</url>
+    <title>Attention Is All You Need</title>
     <tag>Learn</tag>
   </link>
   <link>
@@ -4888,8 +4895,9 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://www.k-a.in/llm5.html</url>
-    <title>Attention Is All You Need</title>
+    <url>https://docs.unsloth.ai/get-started/fine-tuning-guide</url>
+    <title>Fine-tuning Guide | Unsloth Documentation</title>
+    <description>Learn all the basics and best practices of fine-tuning. Beginner-friendly.</description>
     <tag>Learn</tag>
   </link>
   <link>
@@ -4902,10 +4910,10 @@
   </link>
   <link>
     <id>0</id>
-    <url>https://retr0.blog/blog/llama-rpc-rce</url>
-    <title>Retr0&#39;s Register</title>
-    <description>Retr0&#39;s Threat Research</description>
+    <url>https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence</url>
+    <title>Go Supply Chain Attack: Malicious Package Exploits Go Module...</title>
+    <description>Socket researchers uncovered a backdoored typosquat of BoltDB in the Go ecosystem, exploiting Go Module Proxy caching to persist undetected for years.</description>
+    <tag>Redteam</tag>
     <tag>Learn</tag>
-    <tag>Exploit</tag>
   </link>
 </links>
